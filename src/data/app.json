@@ -1,6 +1,6 @@
 {
     "settings": {
-        "siteName": "Erduk Company Limited",
+        "siteName": "4ED Group",
         "formspreeURL": "https://formspree.io/f/your_api_key",
         "mailchimp": {
             "url": "",
@@ -9,30 +9,14 @@
     },
     "header": {
         "logo": {
-            "image": "/img/Builty-Logo.svg",
-            "alt": "logo"
+            "text": "Lettery",
+            "accent": "."
         },
         "menu": [
             {
                 "label": "Home",
                 "link": "/",
-                "children": [
-                    {
-                        "label": "Home 1",
-                        "link": "/",
-                        "children": 0
-                    },
-                    {
-                        "label": "Home 2",
-                        "link": "/index-2",
-                        "children": 0
-                    },
-                    {
-                        "label": "Home 3",
-                        "link": "/index-3",
-                        "children": 0
-                    }
-                ]
+                "children": 0
             },
             {
                 "label": "About",
@@ -61,117 +45,14 @@
                 ]
             },
             {
-                "label": "Shop",
-                "link": "/product-grid",
-                "children": [
-                    {
-                        "label": "Products",
-                        "link": "/product-grid",
-                        "children": [
-                            {
-                                "label": "Product List",
-                                "link": "/product-list"
-                            },
-                            {
-                                "label": "Product Grid",
-                                "link": "/product-grid"
-                            }
-                        ]
-                    },
-                    {
-                        "label": "Product Detail",
-                        "link": "/product-detail",
-                        "children": 0
-                    },
-                    {
-                        "label": "Cart",
-                        "link": "/cart",
-                        "children": 0
-                    },
-                    {
-                        "label": "Checkout",
-                        "link": "/checkout",
-                        "children": 0
-                    },
-                    {
-                        "label": "Login & Register",
-                        "link": "/login",
-                        "children": 0
-                    }
-                ]
+                "label": "Services",
+                "link": "/services",
+                "children": 0
             },
             {
-                "label": "Pages",
-                "link": "/projects",
-                "children": [
-                    {
-                        "label": "Projects",
-                        "link": "/projects",
-                        "children": [
-                            {
-                                "label": "Projects List",
-                                "link": "/projects"
-                            },
-                            {
-                                "label": "Projects Grid",
-                                "link": "/projects-2"
-                            },
-                            {
-                                "label": "Project Detail",
-                                "link": "/projects/project-01"
-                            }
-                        ]
-                    },
-                    {
-                        "label": "Services",
-                        "link": "/services",
-                        "children": [
-                            {
-                                "label": "Services List",
-                                "link": "/services"
-                            },
-                            {
-                                "label": "Service Detail",
-                                "link": "/services/service-1"
-                            }
-                        ]
-                    },
-                    {
-                        "label": "Team",
-                        "link": "/team",
-                        "children": [
-                            {
-                                "label": "Team List",
-                                "link": "/team"
-                            },
-                            {
-                                "label": "Team Detail",
-                                "link": "/team/team-1"
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "label": "Blog",
-                "link": "/blog",
-                "children": [
-                    {
-                        "label": "Blog Grid",
-                        "link": "/blog",
-                        "children": 0
-                    },
-                    {
-                        "label": "Blog List",
-                        "link": "/blog-2",
-                        "children": 0
-                    },
-                    {
-                        "label": "Blog Detail",
-                        "link": "/blog/play-to-your-strength-and-supercharge-your-business",
-                        "children": 0
-                    }
-                ]
+                "label": "Projects",
+                "link": "/projects-2",
+                "children": 0
             },
             {
                 "label": "Contact",
@@ -182,15 +63,15 @@
     },
     "footer": {
         "logo": {
-            "image": "/img/Builty-Logo.svg",
-            "alt": "logo"
+            "text": "Lettery",
+            "accent": "."
         },
         "info": {
             "address": "Airport Residential Area, Accra-Ghana",
             "tel": "(+233) 24 368 6855",
             "email": "info@erduk.com"
         },
-        "copy": "Erduk Company Limited <i class='fa-solid fa-heart'></i> © 2024 <a href='https://corelabsglobal.com'>CoreLabsGlobal</a> All rights reserved"
+        "copy": "4ED Group <i class='fa-solid fa-heart'></i> © 2024 <a href='https://corelabsglobal.com'>CoreLabsGlobal</a> All rights reserved"
     },
     "social": [
         {
