@@ -1,0 +1,142 @@
+{
+    "subtitle": "Our Skilled Team",
+    "title": "Meet The Expert Team",
+    "items": [
+        {
+            "image": "/img/team-3.png",
+            "name": "Kofi Attah Mensah",
+            "role": "Head Railway Construction",
+            "social": [
+                {
+                    "link": "https://facebook.com/",
+                    "icon": "fa-brands fa-facebook-f",
+                    "title": "Facebook"
+                },
+                {
+                    "link": "https://twitter.com/",
+                    "icon": "fa-brands fa-twitter",
+                    "title": "Twitter"
+                }
+            ]
+        },
+        {
+            "image": "/img/team-1.png",
+            "name": "Ashley Francisca",
+            "role": "Finance Department",
+            "social": [
+                {
+                    "link": "https://facebook.com/",
+                    "icon": "fa-brands fa-facebook-f",
+                    "title": "Facebook"
+                },
+                {
+                    "link": "https://twitter.com/",
+                    "icon": "fa-brands fa-twitter",
+                    "title": "Twitter"
+                }
+            ]
+        },
+        {
+            "image": "/img/team-2.png",
+            "name": "King Larry",
+            "role": "Railway Manager",
+            "social": [
+                {
+                    "link": "https://facebook.com/",
+                    "icon": "fa-brands fa-facebook-f",
+                    "title": "Facebook"
+                },
+                {
+                    "link": "https://twitter.com/",
+                    "icon": "fa-brands fa-twitter",
+                    "title": "Twitter"
+                }
+            ]
+        },
+        {
+            "image": "/img/team-3.png",
+            "name": "Steve Jones",
+            "role": "Creative Worker",
+            "social": [
+                {
+                    "link": "https://facebook.com/",
+                    "icon": "fa-brands fa-facebook-f",
+                    "title": "Facebook"
+                },
+                {
+                    "link": "https://twitter.com/",
+                    "icon": "fa-brands fa-twitter",
+                    "title": "Twitter"
+                }
+            ]
+        },
+        {
+            "image": "/img/team-1.png",
+            "name": "Dave Danzerl",
+            "role": "Cheif Railway Construction",
+            "social": [
+                {
+                    "link": "https://facebook.com/",
+                    "icon": "fa-brands fa-facebook-f",
+                    "title": "Facebook"
+                },
+                {
+                    "link": "https://twitter.com/",
+                    "icon": "fa-brands fa-twitter",
+                    "title": "Twitter"
+                }
+            ]
+        },
+        {
+            "image": "/img/team-2.png",
+            "name": "Alexander Sorloth",
+            "role": "Head Railway Construction",
+            "social": [
+                {
+                    "link": "https://facebook.com/",
+                    "icon": "fa-brands fa-facebook-f",
+                    "title": "Facebook"
+                },
+                {
+                    "link": "https://twitter.com/",
+                    "icon": "fa-brands fa-twitter",
+                    "title": "Twitter"
+                }
+            ]
+        },
+        {
+            "image": "/img/team-3.png",
+            "name": "Marian Coffie",
+            "role": "HR Department",
+            "social": [
+                {
+                    "link": "https://facebook.com/",
+                    "icon": "fa-brands fa-facebook-f",
+                    "title": "Facebook"
+                },
+                {
+                    "link": "https://twitter.com/",
+                    "icon": "fa-brands fa-twitter",
+                    "title": "Twitter"
+                }
+            ]
+        },
+        {
+            "image": "/img/team-2.png",
+            "name": "Henry Vincent",
+            "role": "Construction Manager",
+            "social": [
+                {
+                    "link": "https://facebook.com/",
+                    "icon": "fa-brands fa-facebook-f",
+                    "title": "Facebook"
+                },
+                {
+                    "link": "https://twitter.com/",
+                    "icon": "fa-brands fa-twitter",
+                    "title": "Twitter"
+                }
+            ]
+        }
+    ]
+}
