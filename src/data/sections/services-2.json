@@ -1,0 +1,40 @@
+{
+    "subtitle": "What We Provide",
+    "title": "Exclusive Services",
+    "button": {
+        "label": "View All Services",
+        "link": "/services"
+    },
+    "items": [
+        {
+            "icon": "/img/serv-i-1.svg",
+            "title": "Building Construction",
+            "text": "Erduk has a good track record of delivering civil engineering and building projects with some of the leading mining and civil engineering clients, government and other private developers in the country.",
+            "link": "/services/service-1"
+        },
+        {
+            "icon": "/img/serv-i-2.svg",
+            "title": "Earth Works",
+            "text": "We engage in large scale earthworks. We have Earth Moving Equipments and Technical Team with the expertise to deliver all massive earth works related projects such as Roads, TSF, Water Dams, Waste Dams, Aggregate and Ore Crushing, Lagoons. Stone Pitchings, and many more.",
+            "link": "/services/service-2"
+        },
+        {
+            "icon": "/img/serv-i-3.svg",
+            "title": "Pre-construction",
+            "text": "ERDUK is strategically positioned to undertake any project scope within the shortest possible time; without recourse to inflation on material prices. Our dynamic and outstanding team of construction experts and engineering professionals span across all industry disciplines, with very richly extensive technical and managerial know-how.",
+            "link": "/services/service-3"
+        },
+        {
+            "icon": "/img/serv-i-4.svg",
+            "title": "HEAVY-DUTY WELDING AND METAL FABRICATION",
+            "text": "Erduk offers wide range of welding services to mining companies, steel and metal fabrication companies and other entities. We specialize in the welding of structural steel, pipeline welding, heavy equipment welding, heavy steel plates jointing, mining equipment repairs, offshore platform welding, steel tank construction and custom welding. We offers wide range of welding services to mining companies, steel and metal fabrication companies and other entities.",
+            "link": "/services/service-3"
+        },
+        {
+            "icon": "/img/serv-i-5.svg",
+            "title": "EQUIPMENT SUPPLY AND SERVICING",
+            "text": "Erduk engages in the supply and hiring of Heavy Duty Equipment such as crane, excavators, payloaders, crushers, tele handlers, fork lifts, backhoes, tipper trucks, lowbird trucks. dump trucks and other earth and mining equipment. We also offer other maintenance services to these trucks.",
+            "link": "/services/service-3"
+        }
+    ]
+}
