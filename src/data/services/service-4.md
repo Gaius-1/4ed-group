@@ -1,8 +1,8 @@
 ---
 #preview details
-image: "img/serv-i-4.svg"
-title: "Welding & Laser"
-short: "Designing and Building The Most Beautiful Custom Homes."
+image: "/img/services/reliable-power.jpg"
+title: "We Deliver Reliable Power Transmission"
+short: "Our team consists of specialists adept at constructing and maintaining high and medium voltage overhead lines. We meticulously plan, build, and maintain these power lines to minimize disruptions and ensure efficient and reliable power transmission across long distances."
 
 #full details
 description0:

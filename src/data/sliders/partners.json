@@ -1,23 +1,79 @@
 {
     "items": [
         {
-            "image": "/img/client-1.png",
+            "image": "/img/partners/zest-group.png",
             "alt": "img"
         },
         {
-            "image": "/img/client-2.png",
+            "image": "/img/partners/gmc.png",
             "alt": "img"
         },
         {
-            "image": "/img/client-3.png",
+            "image": "/img/partners/wbho.png",
             "alt": "img"
         },
         {
-            "image": "/img/client-4.png",
+            "image": "/img/partners/process-plant-automation.png",
             "alt": "img"
         },
         {
-            "image": "/img/client-5.png",
+            "image": "/img/partners/tagg.png",
+            "alt": "img"
+        },
+        {
+            "image": "/img/partners/genser-energy.png",
+            "alt": "img"
+        },
+        {
+            "image": "/img/partners/newmont.png",
+            "alt": "img"
+        },
+        {
+            "image": "/img/partners/asanko-gold.png",
+            "alt": "img"
+        },
+        {
+            "image": "/img/partners/adamus-resources-limited.png",
+            "alt": "img"
+        },
+        {
+            "image": "/img/partners/anglogold-ashanti.png",
+            "alt": "img"
+        },
+        {
+            "image": "/img/partners/mensin-gold-bibiani.png",
+            "alt": "img"
+        },
+        {
+            "image": "/img/partners/african-underground-mining-services.png",
+            "alt": "img"
+        },
+        {
+            "image": "/img/partners/golden-star.png",
+            "alt": "img"
+        },
+        {
+            "image": "/img/partners/cimaf.png",
+            "alt": "img"
+        },
+        {
+            "image": "/img/partners/goldfields.png",
+            "alt": "img"
+        },
+        {
+            "image": "/img/partners/dra.png",
+            "alt": "img"
+        },
+        {
+            "image": "/img/partners/metka.png",
+            "alt": "img"
+        },
+        {
+            "image": "/img/partners/ower.png",
+            "alt": "img"
+        },
+        {
+            "image": "/img/partners/power-consult-limited.png",
             "alt": "img"
         }
     ]

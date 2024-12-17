@@ -1,10 +1,10 @@
 {
-    "title": "The Biggest Thing We Build is Trust.",
-    "description": "we don’t just work with concrete and steel. We work with people. We are Approachable, with even our highest leadership levels easily accessible. We are Problem Solvers who point out solutions",
+    "title": "SM Engineering",
+    "description": "Is privileged to collaborate with a diverse range of forward-thinking clients who share our commitment to excellence. Their innovative projects and unwavering dedication inspire us to continually deliver exceptional engineering solutions.",
     "video": {
         "url": "https://bslthemes.com/mp4/builty/video.mp4",
-        "poster": "/img/f-3.jpg",
+        "poster": "/img/thumbnail.jpg",
         "alt": "image"
     },
-    "info": "We have over <span>1,200 employees</span> who we view as our most valuable asset."
+    "info": "<span>Build the Trust, Build the Future</span>."
 }

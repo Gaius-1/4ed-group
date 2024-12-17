@@ -1,24 +1,26 @@
 ---
 #preview details
-image: "/img/serv-i-1.svg"
-title: "Construction"
-short: "Designing and Building The Most Beautiful Custom Homes."
+image: "/img/services/electricals.png"
+title: "Electrical Services"
+short: "We design, build, test, commission, and maintain electrical power systems, ensuring seamless integration of high and medium voltage equipment into substations, motor control centers, and industrial automation systems."
 
 #full details
 description0:
   enabled: 1
   text1: "
-    <h3>Service Details</h3>
-    <p>We successfully cope with tasks of varying complexity, provide long-term guarantees and regularly master new technologies. Our portfolio includes <span>dozens of successfully</span> completed projects of houses of different storeys, with high–quality finishes and good repairs. Building houses is our vocation!</p>
+    <h3>What We Do</h3>
+    <p>Our electrical services include the design, installation, testing, and commissioning of high and medium voltage systems for substations, motor control centers, and industrial automation systems. We also specialize in maintenance, energy audits, and green energy solutions, ensuring the safety and efficiency of your electrical infrastructure.</p>
+    <p>We take pride in delivering unmatched expertise, offering tailored solutions that guarantee optimal performance and operational assurance.</p>
   "
   text2: "
     <h3>Service Benefits</h3>
     <ul>
-      <li>Better defined projects, reducing risk and increasing success</li>
-      <li>We provide legislative compliance</li>
-      <li>Cost savings by getting expert advice during the project strategy and estimating</li>
-      <li>Realistic pricing and project timescales</li>
-      <li>Global access to services from world-wide construction consultancy</li>
+      <li>Seamless integration of high and medium voltage systems</li>
+      <li>Proactive and corrective maintenance for reliable operations</li>
+      <li>Energy audit and sustainability solutions</li>
+      <li>Access to OEM spare parts for minimized downtime</li>
+      <li>Certified wiring for residential, commercial, and industrial facilities</li>
+      <li>Green energy solutions like solar panel installation</li>
     </ul>
   "
 
@@ -26,54 +28,56 @@ gallery:
   enabled: 1
   items:
       - image: /img/gallery-3.jpeg
-        alt: "image"
+        alt: "High Voltage Equipment Installation"
 
       - image: /img/gallery-2.jpeg
-        alt: "image"
+        alt: "Maintenance Work on Electrical Systems"
 
       - image: /img/gallery-1.jpeg
-        alt: "image"
+        alt: "Testing and Commissioning of Power Systems"
 
       - image: /img/gallery-4.jpeg
-        alt: "image"
+        alt: "Cable Management Solutions"
 
       - image: /img/gallery-5.jpeg
-        alt: "image"          
+        alt: "Solar Panel Installation and Maintenance"
 
 checklist:
   enabled: 1
   title: What can we support with?
   items:
-    - Dedication to client satisfaction
-    - Dedication to client satisfaction
-    - Dedication to client satisfaction
-    - Dedication to client satisfaction
-    - Dedication to client satisfaction
-    - Dedication to client satisfaction
+    - Design and engineering of electrical systems
+    - Installation, testing, and commissioning of electrical systems
+    - Preventive and predictive maintenance on power installations
+    - Automation systems (PLCs, sensors, HMIs, and embedded systems)
+    - Certified wiring for all facility types
+    - Green energy solutions and energy audits
 
 accordion:
   enabled: 1
-  title: Reporting and Cost Control
+  title: Key Services and Expertise
   items:
-    - heading: Occupational Health Risk Management?
-      content: Commercial management in construction ensures the planning, execution, and coordination of a construction project from the start to finish. These are often for specific projects such as building or renovation projects that are sold or leased.
+    - heading: High and Medium Voltage Equipment Installation
+      content: "We ensure flawless integration of high and medium voltage equipment into your substations, motor control centers, and industrial automation systems through expert installation, testing, and commissioning."
 
-    - heading: What is commercial management in construction?
-      content: Commercial management in construction ensures the planning, execution, and coordination of a construction project from the start to finish. These are often for specific projects such as building or renovation projects that are sold or leased.
+    - heading: Maintenance for Operational Assurance
+      content: "Our comprehensive maintenance plans include corrective and planned maintenance to enhance equipment performance and longevity, minimizing costly disruptions."
 
-    - heading: Start a construction management?
-      content: Commercial management in construction ensures the planning, execution, and coordination of a construction project from the start to finish. These are often for specific projects such as building or renovation projects that are sold or leased.
+    - heading: Green Energy Solutions
+      content: "We provide end-to-end solar panel installation and maintenance services, helping you embrace sustainable energy solutions."
 
-    - heading: Measure quality in construction projects?
-      content: Commercial management in construction ensures the planning, execution, and coordination of a construction project from the start to finish. These are often for specific projects such as building or renovation projects that are sold or leased.
+    - heading: Certified Electrical Wiring
+      content: "Our certified electricians ensure safe, compliant, and functional wiring for residential, commercial, and industrial facilities."
 
-    - heading: Prepare a construction project schedule?
-      content: Commercial management in construction ensures the planning, execution, and coordination of a construction project from the start to finish. These are often for specific projects such as building or renovation projects that are sold or leased.
+    - heading: Cable Management Solutions
+      content: "We offer expert installation, testing, and commissioning of cable management systems to ensure safety and efficiency in your electrical systems."
+
 ---
 
-### Highest Expectations
+### Delivering Reliable Electrical Services
 
-Our knowledgeable cost management experts understand the importance of delivering a project to meet your expectations in terms of cost, time, and quality. We will work with you to find the right, flexible and valuable solutions. No matter what sector you operate in, or the **scale of your project**, our team have the experience and know-how to support you with your goals.
+Our highly skilled team ensures that your electrical systems operate efficiently and reliably. From high voltage installations to energy audits and green energy solutions, we prioritize safety, performance, and sustainability in every project.
 
-In addition to construction consultancy services **Bureau Veritas is a global leader in testing**, inspection and certification (TIC) and we have more than 190+ years of experience meaning that we also can assist you in other areas of your business if needed.
-                  
+As trusted experts in the field, we also provide exclusive access to genuine OEM parts and cutting-edge innovations, ensuring your projects succeed with minimal downtime and maximum support.
+
+Contact us today at **infosmengco@gmail.com** to learn more about how we can support your electrical infrastructure needs.

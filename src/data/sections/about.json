@@ -1,20 +1,20 @@
 {
     "image1": {
-        "url": "/img/about-one.jpeg",
+        "url": "/img/director.png",
         "alt": "Image One"
     },
     "image2": {
         "url": "/img/about-two.jpeg",
         "alt": "Image One"
     },
-    "title": "4ED Group Provides a full range of services",
-    "subtitle": "Welcome to Our Company",
-    "text": "We successfully cope with tasks of varying complexity, provide long-term guarantees and regularly master new technologies. Our portfolio includes dozens of successfully completed projects of houses of different storeys, with high–quality finishes and good repairs. Civil Engineering is our vocation!",
+    "title": "A Decade of Excellence and Ethical Innovation",
+    "subtitle": "Director's Message",
+    "text": "As we enter a decade in operation, our future looks brighter than ever. SM Engineering reasserts its mission to being a sustainable engineering company that delivers technical excellence by utilizing the latest engineering methods, innovation and technology to ensure we offer the best possible integrated engineering solutions to our clients. This is why we are investing significantly to develop the talents of our people continuously. Developing a business responsibly can be quite challenging. Fortunately, at SM Engineering, we are all driven by our Vision, Mission and Values. Likewise, our commitment to uphold compliance and our zero-tolerance approach on corruption, signals how we want to operate and conduct our business: ethically and responsibly. We aim to provide our employees with a safe, conducive and a respectable work environment because we believe that motivated people deliver better performance and results. We pledge our commitment to the continuous delivery of value and integrated solutions to our clients. You can count on us!",
     "signature": {
         "light": "/img/signature.png",
         "dark": "/img/signature-1.png",
         "alt": "Signature"
     },
-    "name": "Kwame John Doe",
-    "role": "Director of 4ED Group"
+    "name": "Kingsley Ocquaye",
+    "role": "Director"
 }

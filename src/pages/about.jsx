@@ -19,7 +19,7 @@ const About = () => {
       <section className="gap about-first">
         <div className="container">
           <div className="row">
-            <h2>Construction industry representing the interests of small and medium-sized building companies</h2>
+            <h2>We design, build, test, commission and maintain electrical power systems.</h2>
           </div>
         </div>
         <div className="container">
@@ -28,10 +28,10 @@ const About = () => {
               <div className="who-we-are">
                 <div>
                   <h3>Who We Are?</h3>
-                  <p>We are resolute in our mission to not only make a difference to the lives of people today but to also leave a legacy for future generations and the planet we live in. Our portfolio includes dozens of successfully completed projects of houses of different storeys, with high–quality finishes and good repairs. Building houses is our vocation!</p>
+                  <p>SM Engineering is dedicated to making a positive impact and leaving a lasting legacy. Specializing in electrical and civil engineering, we excel in designing, constructing, and maintaining electrical power systems and comprehensive civil engineering solutions. Our commitment to ethical practices, innovation, and a safe work environment drives us to deliver exceptional value and integrated solutions to our clients.</p>
                 </div>
                 <figure>
-                  <img className="w-100" src="/img/gallery-1.jpeg" alt="About Image One" />
+                  <img className="w-100" src="/img/who-we-are.jpg" alt="About Image One" />
                 </figure>
               </div>
             </div>
@@ -40,15 +40,15 @@ const About = () => {
                 <div>
                   <h3>What's in it for me?</h3>
                   <ul>
-                    <li><i className="fa-solid fa-circle-dot" /> High performing, low carbon concrete solution</li>
-                    <li><i className="fa-solid fa-circle-dot" /> Value for workers' skills</li>
-                    <li><i className="fa-solid fa-circle-dot" /> Excellent standards in construction</li>
-                    <li><i className="fa-solid fa-circle-dot" /> An inclusive industry</li>
-                    <li><i className="fa-solid fa-circle-dot" /> Don't take our word for it</li>
+                    <li><i className="fa-solid fa-circle-dot" /> Unmatched Expertise</li>
+                    <li><i className="fa-solid fa-circle-dot" /> Delivering Reliable Power Transmission</li>
+                    <li><i className="fa-solid fa-circle-dot" /> Proactive Maintenance through Condition Monitoring</li>
+                    <li><i className="fa-solid fa-circle-dot" /> Exclusivity You Can Trust</li>
+                    <li><i className="fa-solid fa-circle-dot" /> Reduce Costs and Embrace Sustainability</li>
                   </ul>
                 </div>
                 <figure>
-                  <img className="w-100" src="/img/gallery-3.jpeg" alt="About Image Two" />
+                  <img className="w-100" src="/img/whats-in-it-for-me.jpg" alt="About Image Two" />
                 </figure>
               </div>
             </div>
@@ -58,6 +58,8 @@ const About = () => {
       {/* About-First End */}
 
       <CountersSection />
+
+      <PartnersSlider noTop />
 
       {/*About How It Works Start */}
       <section className="gap about-how-it-works light-bg-color">
@@ -70,7 +72,7 @@ const About = () => {
         </div>
         <div className="container">
           <figure style={{"position": "relative", "zIndex": "9"}}>
-            <img className="w-100" src="/img/gallery-2.jpeg" alt="About How It Works" />
+            <img className="w-100" src="/img/plan.jpeg" alt="About How It Works" />
           </figure>
         </div>
         <div className="container">
@@ -123,7 +125,7 @@ const About = () => {
             <div className="col-lg-6" >
               <div className="data">
                 <figure>
-                  <img className="w-100" src="/img/service2.jpeg" alt="About key Benefits" />
+                  <img className="w-100" src="/img/key-benefits.jpeg" alt="About key Benefits" />
                 </figure>
               </div>
             </div>
@@ -133,19 +135,19 @@ const About = () => {
                 <ul>
                   <li>
                     <i className="fa-solid fa-check" />
-                    <p>Labor expenses are a common target for cost reduction measures in the construction industry</p>
+                    <p>Reliable power systems with optimal performance and safety.</p>
                   </li>
                   <li>
                     <i className="fa-solid fa-check" />
-                    <p> A good material management system includes proper communication, scheduling,  and tracking tools.</p>
+                    <p>Efficient energy solutions to reduce consumption and costs.</p>
                   </li>
                   <li>
                     <i className="fa-solid fa-check" />
-                    <p>Faster supplies can be used upon delivery to a construction site, the better.</p>
+                    <p>Advanced automation for enhanced operational efficiency.</p>
                   </li>
                   <li>
                     <i className="fa-solid fa-check" />
-                    <p>Effective material management systems not only ensure that materials are in the right place</p>
+                    <p>Quality procurement of high-grade equipment and spare parts.</p>
                   </li>
                 </ul>
               </div>
@@ -155,13 +157,11 @@ const About = () => {
       </section>
       {/*About Key Benefits End */}
 
-      <TeamSlider noTop />
+      {/* <TeamSlider noTop /> */}
 
       <RenovationSection />
 
       <TestimonialSlider />
-
-      <PartnersSlider noTop />
       
     </Layouts>
   );

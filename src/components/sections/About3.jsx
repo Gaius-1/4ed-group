@@ -12,7 +12,7 @@ const About3Section = () => {
         <div className="container">
           <div className="row">
             {Data.items.map((item, key) => (
-            <div key={`about3-item-${key}`} className="col-lg-4 col-md-6 col-sm-12 p-2" >
+            <div key={`about3-item-${key}`} className="col-lg-6 col-md-6 col-sm-12 p-12" >
               <div className="history-data">
                 <figure>
                   <img className="w-100" src={item.image} alt={item.title} />

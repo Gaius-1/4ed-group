@@ -32,34 +32,38 @@ const Projects2Slider = ( { projects } ) => {
             >
                 {projects.slice(0, Data.numOfItems).map((item, key) => (
                 <SwiperSlide key={`pj2s-slide-${key}`} className="swiper-slide">
-                <div className="row g-0 align-items-center overflow-hidden">
-                    <div className="col-lg-6">
-                        <div className="proj-data">
-                            <h3>{item.title}</h3>
-                            <p>{item.short}</p>
-                            <div className="loc-date">
-                                <div>
-                                    <span>LOCATION:</span>
-                                    <span>{item.location}</span>
-                                </div>
-                                <div>
-                                    <span>DATE:</span>
-                                    <span>{item.dates}</span>
+                    <div className="row g-0 align-items-center overflow-hidden">
+                        <div className="col-lg-6">
+                            <div className="proj-data">
+                                <h3>{item.title}</h3>
+                                <p>{item.short}</p>
+                                <div className="loc-date">
+                                    <div>
+                                        <span>LOCATION:</span>
+                                        <span>{item.location}</span>
+                                    </div>
+                                    <div>
+                                        <span>DATE:</span>
+                                        <span>{item.dates}</span>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <div className="col-lg-6">
-                        <div className="proj-image">
-                            <figure>
-                                <Link href={`/projects/${item.id}`}><img src={item.image} alt={item.title} /></Link>
-                            </figure>
+                        <div className="col-lg-6">
+                            <div className="proj-image">
+                                <figure>
+                                    {/* <Link href={`/projects/${item.id}`}><img src={item.image} alt={item.title} /></Link> */}
+                                    <img src={item.image} alt={item.title} />
+                                </figure>
+                            </div>
                         </div>
                     </div>
-                </div>
                 </SwiperSlide>
                 ))}
             </Swiper>
+            <div className="col-lg-12 text-center gap">
+                <Link href="/projects" className="theme-btn">Explore Our Projects <i className="fa-solid fa-arrow-up-long"></i></Link>
+            </div>
         </section>
     );
 };

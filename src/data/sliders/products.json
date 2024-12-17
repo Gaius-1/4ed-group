@@ -3,40 +3,166 @@
     "title": "Industry Products",
     "items": [
         {
-            "image": "/img/product1.jpeg",
+            "image": "/img/products/transformer-oil-plant.png",
             "rating": "5.0",
-            "title": "Fosroc Galvafroid – 400ml",
-            "price": "<span>$18.60</span> - <span>$58.50</span>"
+            "title": "Transformer Oil Treatment Plant",
+            "price": "• 10000 Litres Per Hour Flow Rate • Online Moisture Sensor • Filter ≤ 1 Micron"
         },
         {
-            "image": "/img/product2.jpeg",
+            "image": "/img/products/transformer-oil-storage-tank.png",
             "rating": "5.0",
-            "title": "Fosroc Galvafroid – 400ml",
-            "price": "<span>$18.60</span> - <span>$58.50</span>"
+            "title": "Transformer Oil Storage Tanks",
+            "price": "Capacity: 30m3 (Qty 2), 6m3 (Qty 3), 3m3 (Qty 2)"
         },
         {
-            "image": "/img/product4.jpeg",
+            "image": "/img/products/transformer-oil-plant-2.png",
             "rating": "5.0",
-            "title": "Fosroc Galvafroid – 400ml",
-            "price": "<span>$18.60</span> - <span>$58.50</span>"
+            "title": "Transformer Oil Treatment Plant",
+            "price": "• 4000 Litres Per Hour Capacity • Online Moisture Sensor • Filter ≤ 1 Micron"
         },
         {
-            "image": "/img/product1.jpeg",
+            "image": "/img/products/leybold.png",
             "rating": "5.0",
-            "title": "Fosroc Galvafroid – 400ml",
-            "price": "<span>$18.60</span> - <span>$58.50</span>"
+            "title": "Leybold Sogevac SV300",
+            "price": "B Vacuum Pump Unit • Nominal Speed: 280m3h-1 • Pumping Speed: 240m3h-1 • Equipped with Booster Pump"
         },
         {
-            "image": "/img/product2.jpeg",
+            "image": "/img/products/leybold.png",
             "rating": "5.0",
-            "title": "Fosroc Galvafroid – 400ml",
-            "price": "<span>$18.60</span> - <span>$58.50</span>"
+            "title": "Leybold RUVAC 501",
+            "price": "• Nominal Pumping Speed: 505m3h-1 0.1 mbar blank-off vacuum capacity"
         },
         {
-            "image": "/img/product4.jpeg",
+            "image": "/img/products/svp-pump.png",
             "rating": "5.0",
-            "title": "Fosroc Galvafroid – 400ml",
-            "price": "<span>$18.60</span> - <span>$58.50</span>"
+            "title": "SVP 1500 Vacuum Pump",
+            "price": "(Manufactured by Samni Corporation, Japan) Capacity: 1500L/Min"
+        },
+        {
+            "image": "/img/products/underground-cable-pulling.png",
+            "rating": "5.0",
+            "title": "Underground Cable Pulling Machine",
+            "price": " Hydraulic Puller DQ40 Specifications: • Maximum Continuous Pulling Force: 40KN • Steel Wire Rope Size: ø11mm • Rope Winding Capacity: 650m"
+        },
+        {
+            "image": "/img/products/hipot-test-set.png",
+            "rating": "5.0",
+            "title": "Hipot Test Set",
+            "price": "(Megger, 80KV)"
+        },
+        {
+            "image": "/img/products/oil-dielectric-strength-test-set.png",
+            "rating": "5.0",
+            "title": "Oil Dielectric Strength Test Set",
+            "price": "(Megger OTS 100AF/2)"
+        },
+        {
+            "image": "/img/products/moisterizer-pump.png",
+            "rating": "5.0",
+            "title": "Hydraulic Press Machine with Motorised pump for conductor jointing",
+            "price": "Features: • Maximum Compression Force 3000KN   • Maximum Conductor Size 2500mm2"
+        },
+        {
+            "image": "/img/products/earth-resistance-test-set.png",
+            "rating": "5.0",
+            "title": "Earth Resistance Test Set",
+            "price": ""
+        },
+        {
+            "image": "/img/products/transformer-ratio-test-set.png",
+            "rating": "5.0",
+            "title": "Transformer Ratio Test Set",
+            "price": "(Megger TTR330)"
+        },
+        {
+            "image": "/img/products/power-quality-analyzer.png",
+            "rating": "5.0",
+            "title": "Power Quality Analyzer",
+            "price": ""
+        },
+        {
+            "image": "/img/products/omicron-sweep-freq-analyzer.png",
+            "rating": "5.0",
+            "title": "Omicron Sweep Frequency Response Analyzer",
+            "price": ""
+        },
+        {
+            "image": "/img/products/sf6-gas-analyzer.png",
+            "rating": "5.0",
+            "title": "SF6 Gas Analyzer",
+            "price": "(Dilo SF6 Multi-Analyzer)"
+        },
+        {
+            "image": "/img/products/capacitance-dissipation-factor.png",
+            "rating": "5.0",
+            "title": "Capacitance and Dissipation Factor Test Set",
+            "price": "(Tan Delta)"
+        },
+        {
+            "image": "/img/products/500KV-transmission-line-stringing-equipment.png",
+            "rating": "5.0",
+            "title": "500KV Transmission Line Stringing Equipment Hydraulic Puller 18ton Capacity",
+            "price": ""
+        },
+        {
+            "image": "/img/products/oil-dielectric-strength-test-set-2.png",
+            "rating": "5.0",
+            "title": "Oil Dielectric Strength Test Set",
+            "price": "(Megger OTS60PB)"
+        },
+        {
+            "image": "/img/products/insulation-resistance-test-set.png",
+            "rating": "5.0",
+            "title": "Insulation Resistance Test Set 10KV",
+            "price": "(Megger S1-1068)"
+        },
+        {
+            "image": "/img/products/partial-discharge-test-set.png",
+            "rating": "5.0",
+            "title": "Partial Discharge Test Set",
+            "price": "(Omicron MPD800)"
+        },
+        {
+            "image": "/img/products/circuit-breaker-analyzer.png",
+            "rating": "5.0",
+            "title": "Circuit Breaker Analyzer",
+            "price": "(Megger TM 1800)"
+        },
+        {
+            "image": "/img/products/dissolved-gas-analyzer.png",
+            "rating": "5.0",
+            "title": "Dissolved Gas Analyzer",
+            "price": "(Kelman Transport X2)"
+        },
+        {
+            "image": "/img/products/SF6-gas-filling-and-recovery-device.png",
+            "rating": "5.0",
+            "title": " SF6 Gas Filling and Recovery Device",
+            "price": "(Dilo)"
+        },
+        {
+            "image": "/img/products/11ton-mounted-crane.png",
+            "rating": "5.0",
+            "title": "11ton Truck Mounted Crane",
+            "price": ""
+        },
+        {
+            "image": "/img/products/contact-resistance-test-set.png",
+            "rating": "5.0",
+            "title": "Contact Resistance Test Set",
+            "price": "(Megger DLRO 200, Digital Low Resistance Ohmmeter)"
+        },
+        {
+            "image": "/img/products/current-transformer-analyzer.png",
+            "rating": "5.0",
+            "title": "Current Transformer Analyzer",
+            "price": "(Omicron)"
+        },
+        {
+            "image": "/img/products/circuit-breaker-vacuum-pump.png",
+            "rating": "5.0",
+            "title": "Circuit Breaker Vacuum Pump",
+            "price": "(Dilo D-87727)"
         }
     ]
 }

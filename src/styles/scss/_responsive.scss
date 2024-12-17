@@ -305,7 +305,7 @@
         font-size: 45px;
     }
     .core-features .accordion-header {
-        width: 60%;
+        width: 70%;
     }
     .renovation:after {
         right: -25%;
@@ -336,7 +336,7 @@
 @media(max-width: 1200px) {
     .header-style-one {
         position: relative;
-        background-color: $black;
+        background-color: $white;
     }
     .desktop-nav .nav-bar .extras .menu-start svg {
         margin-right: 15px;
@@ -621,7 +621,7 @@
         display: none;
     }
     .header-style-one .desktop-nav {
-        background: $black;
+        background: $white;
         padding: 20px 0;
     }
     .featured-slider-one .f-slider-one-data, .featured-slider-one .swiper-slide.swiper-slide-active .f-slider-one-data {
@@ -662,7 +662,7 @@
         font-size: 18px;
     }
     .team-detail .team-data .t-tel {
-        background: $black;
+        background: $blue;
         width: 100%;
         padding: 30px;
     }
@@ -990,7 +990,7 @@
         margin-top: 40px;
     }
     .next-prev-projects {
-        background: $black;
+        background: $blue;
         height: 80px;
         position: fixed;
         width: 100%;
@@ -2598,7 +2598,7 @@
     }
     .f-slider-one img {
         width: 100%;
-       /* height: 70vh;*/
+        height: 70vh;
     }
     .featured-slider-one .f-slider-one-data, .featured-slider-one .swiper-slide.swiper-slide-active .f-slider-one-data, .featured-slider-one .swiper-slide.swiper-slide-active:after {
         top: 40%;

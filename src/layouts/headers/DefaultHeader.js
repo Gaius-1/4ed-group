@@ -79,7 +79,7 @@ const DefaultHeader = ({ contactButton, cartButton }) => {
                     <div className="header-logo">
                       <Link href="/">
                         <figure>
-                          <img src={appData.header.logo.image} alt={appData.header.logo.alt} />
+                          <img src={appData.header.logo.image} alt={appData.header.logo.alt} width={100} />
                         </figure>
                       </Link>
                     </div>

@@ -1,8 +1,8 @@
 ---
 #preview details
-image: "img/serv-i-3.svg"
-title: "Interior Design"
-short: "Designing and Building The Most Beautiful Custom Homes."
+image: "/img/services/earthing.jpg"
+title: "Earthing System Services"
+short: "Earthing systems play a critical role in safeguarding personnel and equipment from electrical hazards. We design, install, test, and maintain robust earthing systems, employing advanced techniques and high quality materials to ensure the effectiveness of this vital safety measure. Additionally, we offer improvement services to enhance the performance of existing earthing systems."
 
 #full details
 description0:

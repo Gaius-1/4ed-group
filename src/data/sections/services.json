@@ -6,8 +6,8 @@
                 "dark": "/images/1-icon.png",
                 "alt": "icon"
             },
-            "title": "Core Planning",
-            "text": "Lorem ipsum dolor sit amet, consectne auctor aliquet. Aenean sollicitudi bibendum auctor.",
+            "title": "Our Vision",
+            "text": "To become the leading engineering company by providing the highest valued Electrical and Civil Engineering Services in West Africa.",
             "link": "/services/service-1"
         },
         {
@@ -16,19 +16,9 @@
                 "dark": "/images/2-icon.png",
                 "alt": "icon"
             },
-            "title": "Traditional Designs",
-            "text": "Lorem ipsum dolor sit amet, consectne auctor aliquet. Aenean sollicitudi bibendum auctor.",
+            "title": "Our Mission",
+            "text": "To be a sustainable engineering company that delivers technical excellence by utilizing the latest technology to ensure we offer the best possible integrated solutions to our clients.",
             "link": "/services/service-2"
-        },
-        {
-            "icon": {
-                "light": "/images/icon-3.svg",
-                "dark": "/images/3-icon.png",
-                "alt": "icon"
-            },
-            "title": "Quality Materials",
-            "text": "Lorem ipsum dolor sit amet, consectne auctor aliquet. Aenean sollicitudi bibendum auctor.",
-            "link": "/services/service-3"
         }
     ]
 }

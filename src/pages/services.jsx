@@ -20,79 +20,43 @@ const Services = (props) => {
     <Layouts>
       <PageBanner pageTitle={"Services"} pageDesc={"our values and vaulted us to the top of our industry."} />
 
-      <ServicesSection />
+      {/* <ServicesSection /> */}
 
       {/* Construction Services Start */}
-      <section className="gap no-top construction-services">
+      {/* <section className="gap construction-services">
         <div className="container">
           <Tab.Container id="services-tab-content" defaultActiveKey="tab-service-0">
           <div className="row align-items-center">
             <div className="col-lg-4">
               <div className="services-nav">
-                <h2>Construction Services</h2>
+                <h2>Our Scope Of Business</h2>
                 <Nav variant="pills" className="nav nav-pills mb-3">
                   <Nav.Item>
-                    <Nav.Link eventKey="tab-service-0">General Contracting</Nav.Link>
+                    <Nav.Link eventKey="tab-service-0">Electrical Services</Nav.Link>
                   </Nav.Item>
                   <Nav.Item>
-                    <Nav.Link eventKey="tab-service-1">Construction Consultant</Nav.Link>
-                  </Nav.Item>
-                  <Nav.Item>
-                    <Nav.Link eventKey="tab-service-2">Metal Roofing</Nav.Link>
-                  </Nav.Item>
-                  <Nav.Item>
-                    <Nav.Link eventKey="tab-service-3">House Renovation</Nav.Link>
-                  </Nav.Item>
-                  <Nav.Item>
-                    <Nav.Link eventKey="tab-service-4">Green Building</Nav.Link>
+                    <Nav.Link eventKey="tab-service-1">Civil Services</Nav.Link>
                   </Nav.Item>
                 </Nav>
               </div>
             </div>
             <div className="col-lg-8">
               <Tab.Content>
-                <Tab.Pane eventKey="tab-service-0" title="General Contracting">
+                <Tab.Pane eventKey="tab-service-0" title="Electrical">
                   <figure>
                     <img className="w-100" src="/img/service3.jpeg" alt="Services Nav Image 1" />
                     <figcaption>
-                      <h3>General Contracting</h3>
-                      <p>One of the most critical stages of  the construction process is the commissioning and closeout.</p>
+                      <h3>Electrical Services</h3>
+                      <p>We design, install, test, and commission electrical systems, including preventive and predictivemaintenance. We specialize also in automation involving control systems, PLCs, sensors, HMI, and embedded systems.</p>
                     </figcaption>
                   </figure>
                 </Tab.Pane>
-                <Tab.Pane eventKey="tab-service-1" title="Construction Consultant">
+                <Tab.Pane eventKey="tab-service-1" title="Civil">
                   <figure>
                     <img className="w-100" src="/img/service7.jpeg" alt="Services Nav Image 2" />
                     <figcaption>
-                      <h3>Construction Consultant</h3>
-                      <p>One of the most critical stages of  the construction process is the commissioning and closeout.</p>
-                    </figcaption>
-                  </figure>
-                </Tab.Pane>
-                <Tab.Pane eventKey="tab-service-2" title="Metal Roofin">
-                  <figure>
-                    <img className="w-100" src="/img/service2.jpeg" alt="Services Nav Image 3" />
-                    <figcaption>
-                      <h3>Metal Roofing</h3>
-                      <p>One of the most critical stages of  the construction process is the commissioning and closeout.</p>
-                    </figcaption>
-                  </figure>
-                </Tab.Pane>
-                <Tab.Pane eventKey="tab-service-3" title="House Renovation">
-                  <figure>
-                    <img className="w-100" src="/img/service9.jpeg" alt="Services Nav Image 4" />
-                    <figcaption>
-                      <h3>House Renovation</h3>
-                      <p>One of the most critical stages of  the construction process is the commissioning and closeout.</p>
-                    </figcaption>
-                  </figure>
-                </Tab.Pane>
-                <Tab.Pane eventKey="tab-service-4" title="Green Building">
-                  <figure>
-                    <img className="w-100" src="/img/service4.jpeg" alt="Services Nav Image 5" />
-                    <figcaption>
-                      <h3>Green Building</h3>
-                      <p>One of the most critical stages of  the construction process is the commissioning and closeout.</p>
+                      <h3>Civil Services</h3>
+                      <p>We offer design, construction, infrastructure development, environmental engineering, project management, and maintenance and rehabilitation services.</p>
                     </figcaption>
                   </figure>
                 </Tab.Pane>
@@ -101,17 +65,17 @@ const Services = (props) => {
           </div>
           </Tab.Container>
         </div>
-      </section>
+      </section> */}
       {/* Construction Services End */}
 
-      <CountersSection />
+      {/* <CountersSection /> */}
 
       {/* Video PopUp Start */}
-      <div className="video-popup">
+      <div className="gap video-popup">
         <div className="container-fluid g-0">
           <div className="row">
             <figure>
-              <img className="w-100" src="/img/construction.jpeg" alt="Video PopUp Image" />
+              <img className="w-100" src="/img/transparency.jpg" alt="Video PopUp Image" />
             </figure>
             <a className="video-play-btn" onClick={() => setOpen(true)} style={{"cursor": "pointer"}}>
               <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" width="35" height="56" viewBox="0 0 35 56"> <defs> <clipPath id="clip-video_arrow"> <rect width="35" height="56"/> </clipPath> </defs> <g id="video_arrow" data-name="video arrow" clipPath="url(#clip-video_arrow)"> <path id="Shape_1" data-name="Shape 1" d="M1362,5000.8,1327,4972V5027Z" transform="translate(-1326.998 -4971.996)" fill="rgba(0,0,0,0)"/> <path id="Shape_1_-_Outline" data-name="Shape 1 - Outline" d="M1333,5015.017l19.29-14.437L1333,4984.7v30.313M1327,5027V4972l35,28.807Z" transform="translate(-1326.998 -4971.996)"/> </g> </svg>
@@ -131,22 +95,29 @@ const Services = (props) => {
           <span>What We Provide</span>
           <h2>Exclusive Services</h2>
         </div>
+        <div className='project-style-one addition'>
         <div className="container">
-          <div className="row g-0">
+          <div className="row project-slider">
             {props.services.map((item, key) => (
-            <div key={`services-item-${key}`} className="col-lg-4 col-md-6 col-sm-12" >
-              <div className="service-two-box">
-                <h3><Link href={`/services/${item.id}`}>{item.title}</Link></h3>
-                <p>{item.short}</p>
-                <div className="service-two-icon d-flex-all justify-content-start">
-                  <img src={item.image} alt={item.title} />
-                  <Link href={`/services/${item.id}`}>
-                    <i className="fa-solid fa-arrow-up-long"></i>
-                  </Link>
+              <div key={`services-item-${key}`} className="col-lg-6 col-md-6 col-sm-12" >
+                <div className="project-post">
+                  <figure>
+                    <img className="w-100" src={item.image} alt={item.title} />
+                  </figure>
+                  <div className="project-data">
+                    <h3>
+                      {/* <Link href={`/services/${item.id}`}>{item.title}</Link> */}
+                      {item.title}
+                    </h3>
+                    <p>{item.short.length > 150 ? `${item.short.substring(0, 150)}...` : item.short}</p>
+                    {/* <Link className="project-icon" href={`/services/${item.id}`}>
+                      <i className="fa-solid fa-angles-right" />
+                    </Link> */}
+                  </div>
                 </div>
               </div>
+              ))}
             </div>
-            ))}
           </div>
         </div>
       </section>

@@ -1,6 +1,6 @@
 {
     "settings": {
-        "siteName": "4ED Group",
+        "siteName": "SM Engineering",
         "formspreeURL": "https://formspree.io/f/your_api_key",
         "mailchimp": {
             "url": "",
@@ -9,8 +9,8 @@
     },
     "header": {
         "logo": {
-            "text": "Lettery",
-            "accent": "."
+            "image": "/images/logo.png",
+            "alt": "SM Engineering"
         },
         "menu": [
             {
@@ -67,11 +67,11 @@
             "accent": "."
         },
         "info": {
-            "address": "Airport Residential Area, Accra-Ghana",
-            "tel": "(+233) 24 368 6855",
-            "email": "info@erduk.com"
+            "address": "PS Global Estates, Community 25, Tema",
+            "tel": "(+233) 55 867 1351 / (+233) 24 319 1876",
+            "email": "infosmengco@gmail.com"
         },
-        "copy": "4ED Group <i class='fa-solid fa-heart'></i> © 2024 <a href='https://corelabsglobal.com'>CoreLabsGlobal</a> All rights reserved"
+        "copy": "SM Engineering <i class='fa-solid fa-heart'></i> © 2024 <a href='https://corelabsglobal.com'>CoreLabsGlobal</a> All rights reserved"
     },
     "social": [
         {

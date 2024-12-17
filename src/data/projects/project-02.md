@@ -1,10 +1,10 @@
 ---
 #preview
-title: Charles Dedham Workspace
-image: /img/project2.jpeg
-short: "A modern, technology-enabled, wellness-focused workspace and sustainable office…"
-location: "Cantoments"
-dates: "1999-2000"
+title: Sempi High Voltage Overhaul Line
+image: /img/innovation.jpg
+short: "A meticulously planned constructed high voltage overhead lines to provide reliable power transmission across long distance…"
+location: "Sempi"
+dates: "2019-2021"
 
 #full details
 checklist:
@@ -37,16 +37,16 @@ details:
 
 slider: 
     items:
-        - image: /img/project3.jpeg
+        - image: /img/projects/project-3.jpg
           alt: "image"
 
-        - image: /img/project4.jpeg
+        - image: /img/projects/project-4.jpg
           alt: "image"
 
-        - image: /img/project5.jpeg
+        - image: /img/projects/project-5.jpg
           alt: "image"
         
-        - image: /img/project6.jpeg
+        - image: /img/projects/project-6.jpg
           alt: "image"
 ---
 

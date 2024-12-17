@@ -1,4 +1,5 @@
 import dynamic from "next/dynamic";
+// import AboutSection from "@components/sections/About";
 import Link from "next/link";
 
 import Layouts from "@layouts/Layouts";
@@ -12,9 +13,9 @@ const Leadership = () => {
   const Content = {
     "team": [
         {
-          "image": "/img/team-4.jpg",
-          "name": "Kwame John Doe",
-          "role": "Vice President, Civil Infrastructure",
+          "image": "/img/director.png",
+          "name": "Kingsley Ocquaye",
+          "role": "Director, SM Engineering",
           "tel": "(+120) 50 318 47 07",
           "social": [
               {
@@ -31,10 +32,10 @@ const Leadership = () => {
           "link": "/team/team-4"
       },
       {
-          "image": "/img/team-5.jpg",
-          "name": "Kofi Yarboi",
+          "image": "/img/siya.jpg",
+          "name": "Siya Ababio",
           "role": "Vice President, Civil Infrastructure",
-          "tel": "(+180) 50 318 47 07",
+          "tel": "(+233) 50 318 47 07",
           "social": [
               {
                   "link": "https://facebook.com/",
@@ -50,10 +51,10 @@ const Leadership = () => {
           "link": "/team/team-5"
       },
       {
-          "image": "/img/team-6.jpg",
-          "name": "Kwame John Doe",
-          "role": "Vice President, Civil Infrastructure",
-          "tel": "(+180) 50 318 47 07",
+          "image": "/img/zoe.jpg",
+          "name": "Sam Zoe Korankye",
+          "role": "Project Manager",
+          "tel": "(+233) 57 318 47 07",
           "social": [
               {
                   "link": "https://facebook.com/",
@@ -69,10 +70,10 @@ const Leadership = () => {
           "link": "/team/team-6"
       },
       {
-          "image": "/img/team-7.jpg",
-          "name": "Kofi Yarboi",
-          "role": "Vice President, Civil Infrastructure",
-          "tel": "(+180) 50 318 47 07",
+          "image": "/img/cassie.jpg",
+          "name": "Cassie Yaa Yarboi",
+          "role": "General Secretary",
+          "tel": "(+233) 54 318 47 07",
           "social": [
               {
                   "link": "https://facebook.com/",
@@ -96,17 +97,18 @@ const Leadership = () => {
       
       {/* Team Style Two (Revolution) Start */}
       <section className="gap team-style-two revolution">
+        {/* <AboutSection /> */}
         <div className="container">
           <div className="row space">
             <div className="col-lg-7">
               <div className="head">
                 <span>Our Leadership</span>
-                <h2>The champions of a construction revolution</h2>
+                <h2>The Champions Of An Engineering Revolution</h2>
               </div>
             </div>
             <div className="col-lg-5">
               <div className="head">
-                <p>We successfully cope with tasks of varying complexity, provide long-term guarantees and regularly master new technologies. Our portfolio includes dozens of successfully completed projects of houses of different storeys, with high–quality finishes and good repairs. Building houses is our vocation!</p>
+                <p>Our unwavering commitment to delivering integrated engineering solutions with technical excellence and innovation ensures that we meet our clients' needs with precision and professionalism.</p>
               </div>
             </div>
           </div>
@@ -134,7 +136,7 @@ const Leadership = () => {
                     </span>
                     <p>{item.tel}</p>
                 </div>
-                <div className="team-social-medias">
+                {/* <div className="team-social-medias">
                     <Link href={item.link}>
                         <i className="fa-solid fa-arrow-up-long"></i>
                     </Link>
@@ -145,7 +147,7 @@ const Leadership = () => {
                         </a>
                         ))}
                     </div>
-                </div>
+                </div> */}
                 <figure className="team-image">
                     <img src={item.image} alt={item.name} />
                 </figure>
@@ -159,7 +161,7 @@ const Leadership = () => {
       
       <ContactForm2Section />
 
-      <TeamSlider />
+      {/* <TeamSlider /> */}
       
     </Layouts>
   );

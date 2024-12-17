@@ -7,7 +7,7 @@ const ServicesSection = () => {
         <div className="container">
         <div className="row">
             {Data.items.map((item, key) => (
-            <div key={`services-item-${key}`} className="col-lg-4 col-md-6 col-sm-12 text-center" >
+            <div key={`services-item-${key}`} className="col-lg-6 col-md-6 col-sm-12 text-center" >
             <div className="service-data">
                 <div className="svg-icon d-flex-all">
                     <img className="light-icon" src={item.icon.light} alt={item.icon.alt} />

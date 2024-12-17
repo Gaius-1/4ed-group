@@ -2,29 +2,29 @@
     "items": [
         {
             "image": "img/slide1.jpeg",
-            "title": "Create the Building You Want Here",
-            "text": "Builty is a construction and architecture environmentally most responsible for any kinds of themes.",
+            "title": "Delivering Excellence Responsibly",
+            "text": "SM Engineering is a construction and architecture environmentally most responsible for any kinds of themes.",
             "button": {
-                "label": "Start Consulting",
-                "link": "/contact"
+                "label": "About Us",
+                "link": "/about"
             }
         },
         {
-            "image": "img/project5.jpeg",
-            "title": "A Better Way To Build Your Dreams",
-            "text": "Builty is a construction and architecture environmentally most responsible for any kinds of themes.",
+            "image": "img/slide2.jpeg",
+            "title": "Investing in Our People",
+            "text": "Developing a business responsibly can be quite challenging. Fortunately, at SM Engineering, we are all driven by our Vision, Mission and Values.",
             "button": {
-                "label": "Estimate Price",
-                "link": "/services"
+                "label": "Our Values",
+                "link": "/core-values"
             }
         },
         {
-            "image": "img/articles6.jpeg",
-            "title": "Builty Innovative & Industrial Solutions",
-            "text": "Builty is a construction and architecture environmentally most responsible for any kinds of themes.",
+            "image": "img/slide3.jpeg",
+            "title": "Safe & Respectful Work Env.",
+            "text": "We aim to provide our employees with a safe, conducive and a respectable work environment because we believe that motivated people deliver better performance and results.",
             "button": {
-                "label": "Start Consulting",
-                "link": "/contact"
+                "label": "Our Team",
+                "link": "/leadership"
             }
         }
     ]

@@ -1,42 +1,18 @@
 {
     "title": "Our <span>Services</span>",
-    "description": "4ED Group begun as a small cement retail outlet with a single location and by mid-2013, was granted full accredited distributorship status by the Heidelberg Group (the second largest cement manufacturer in the world, based in Germany) to distribute cement nationwide and beyond. This accomplishment allowed 4ED Group to develop into the largest sole distributor of Cement in Ghana.",
+    "description": "We provide complete engineering, design & build, full support for any size project from concept designs up to project completion and commissioning.",
     "items": [
         {
-            "image": "/img/service1.jpeg",
-            "title": "Building Construction",
-            "text": "Many have raised the bar for industrial construction, not only in terms of cost, scheduling, safety and efficiency.",
+            "image": "/img/services/electricals.png",
+            "title": "Electrical Engineering Services",
+            "text": "This includes installation, testing, and commissioning of electrical systems, preventive and predictive maintenance on electrical power installations, and automation involving control systems, PLCs, sensors and actuators, HMI, and embedded systems.",
             "link": "/services/service-1"
         },
         {
-            "image": "/img/service2.jpeg",
-            "title": "Earth Works",
-            "text": "Many have raised the bar for industrial construction, not only in terms of cost, scheduling, safety and efficiency.",
+            "image": "/img/services/civil.jpg",
+            "title": "Civil Engineering Services",
+            "text": "This encompasses design, construction, infrastructure development, environmental engineering, project management, and maintenance and rehabilitation.",
             "link": "/services/service-2"
-        },
-        {
-            "image": "/img/service3.jpeg",
-            "title": "Pre-construction",
-            "text": "Many have raised the bar for industrial construction, not only in terms of cost, scheduling, safety and efficiency.",
-            "link": "/services/service-3"
-        },
-        {
-            "image": "/img/service3.jpeg",
-            "title": "Heavy-Duty Welding and Metal Fabrication",
-            "text": "Many have raised the bar for industrial construction, not only in terms of cost, scheduling, safety and efficiency.",
-            "link": "/services/service-3"
-        },
-        {
-            "image": "/img/service3.jpeg",
-            "title": "Equipment Supply & Servicing",
-            "text": "Many have raised the bar for industrial construction, not only in terms of cost, scheduling, safety and efficiency.",
-            "link": "/services/service-3"
-        },
-        {
-            "image": "/img/service3.jpeg",
-            "title": "Mechanical Installation",
-            "text": "Many have raised the bar for industrial construction, not only in terms of cost, scheduling, safety and efficiency.",
-            "link": "/services/service-3"
         }
     ]
 }

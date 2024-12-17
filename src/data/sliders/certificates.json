@@ -10,19 +10,13 @@
         "value": "100%"
     },
     "subheading": "We Won Many Factory Awards",
-    "heading": "Got Many Ceritificates Since 2001-2016",
+    "heading": "Got Many Certificates Since 2014",
     "items": [
         {
             "image": "/img/c-img.png",
             "subtitle": "2001 Award",
-            "title": "Heidelberg Group",
-            "text": "The SEGD Global Design Awards represents the best in experiential graphic design and covers a variety of topics."
-        },
-        {
-            "image": "/img/c-img.png",
-            "subtitle": "2006 Award",
-            "title": "GHACEM",
-            "text": "The SEGD Global Design Awards represents the best in experiential graphic design and covers a variety of topics."
+            "title": "Ghana’s Energy Commission certification",
+            "text": "lorem ipsum dolor sit amet, consectne auctor aliquet. Aenean sollicitudi bibendum auctor."
         }
     ]
 }

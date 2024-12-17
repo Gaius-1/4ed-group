@@ -1,8 +1,8 @@
 ---
 #preview details
-image: "img/serv-i-5.svg"
-title: "Architecture"
-short: "Designing and Building The Most Beautiful Custom Homes."
+image: "/img/services/procure.jpg"
+title: "We Procure High/Medium Voltage Equipment Spare Parts"
+short: "We understand the importance of minimizing downtime during equipment repairs and maintenance. By leveraging our established relationships with original equipment manufacturers (OEMs), we efficiently source and supply high-quality spare parts, ensuring they are precisely compatible with your specific equipment."
 
 #full details
 description0:

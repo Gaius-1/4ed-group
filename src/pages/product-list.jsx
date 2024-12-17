@@ -16,9 +16,9 @@ const ProductList = () => {
               <div className="shop-filter">
                 <p>145 Products</p>
                 <div className="gird-list d-flex-all">
-                  <Link className="d-flex-all list" href="/product-list">
+                  {/* <Link className="d-flex-all list" href="/product-list">
                     <i className="fa-solid fa-list" />
-                  </Link>
+                  </Link> */}
                   <Link className="d-flex-all grid" href="/product-grid">
                     <i className="fa-solid fa-table-list" /> 
                   </Link>

@@ -1,7 +1,7 @@
 ---
 #preview
-title: Project Horizon Redevelopment
-image: /img/project1.jpeg
+title: Establishment of Noja Plant
+image: /img/projects/noja.jpg
 short: "A modern, technology-enabled, wellness-focused workspace and sustainable office…"
 location: "Airport Residence"
 dates: "1999-2000"
@@ -37,16 +37,16 @@ details:
 
 slider: 
     items:
-        - image: /img/project2.jpeg
+        - image: /img/projects/noja-7.jpg
           alt: "image"
 
-        - image: /img/project3.jpeg
+        - image: /img/projects/noja-8.jpg
           alt: "image"
 
-        - image: /img/project4.jpeg
+        - image: /img/projects/noja-9.jpg
           alt: "image"
         
-        - image: /img/project5.jpeg
+        - image: /img/projects/noja.jpg
           alt: "image"
 ---
 

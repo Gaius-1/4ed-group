@@ -189,6 +189,7 @@ a:hover{
     width: 60%;
     margin: auto;
     margin-bottom: 70px;
+    text-align: left;
 }
 .heading.heading-style-3 h2 span {
     text-transform: capitalize;
@@ -402,7 +403,7 @@ button.scrollTopStick.active:before,
     background: $accent-1;
     font-size: $text-sm;
     font-family: $font-1;
-    color: $black;
+    color: $blue;
     display: inline-flex;
     position: relative;
     border: 2px solid;
@@ -428,7 +429,7 @@ button.scrollTopStick.active:before,
     color: $white;
 }
 .theme-btn:hover i {
-    color: $black;
+    color: $blue;
     width: 45px;
 }
 .theme-btn i {
@@ -446,7 +447,7 @@ button.scrollTopStick.active:before,
 }
 .theme-btn i:after {
     content: "";
-    background: $black;
+    background: $blue;
     width: 100%;
     height: 100%;
     position: absolute;
@@ -485,7 +486,7 @@ button.scrollTopStick.active:before,
     margin-top: 50px;
 } 
 .common-btn .theme-btn:hover {
-    color: $black;
+    color: $blue;
 }
 input,
 select {
@@ -529,8 +530,8 @@ textarea {
 .select-wrapper:after {
     content: "";
     position: absolute;
-    border-bottom: 3px solid $black;
-    border-right: 3px solid $black;
+    border-bottom: 3px solid $blue;
+    border-right: 3px solid $blue;
     height: 8px;
     right: 25px;
     width: 8px;
@@ -660,16 +661,16 @@ textarea {
 .builty-pagination ul.pagination li:first-child a,
 .builty-pagination ul.pagination li:last-child a {
     padding: 0 21px;
-    background: $black;
+    background: $blue;
     color: $white;
 }
 .builty-pagination ul.pagination li:first-child a:hover,
 .builty-pagination ul.pagination li:last-child a:hover {
-    color: $black;
+    color: $blue;
 }
 .builty-pagination ul.pagination li:first-child a,
 .builty-pagination ul.pagination li:last-child a {
-    border-color: $black;
+    border-color: $blue;
 }
 .builty-pagination ul.pagination li:first-child {
     margin-right: 25px;
@@ -740,7 +741,7 @@ textarea {
 }
 .category p a {
     font-weight: 600;
-    color: $black;
+    color: $blue;
     text-decoration: underline;
     text-decoration-color: #bcbcbc;
 }
@@ -816,7 +817,7 @@ textarea {
 .comment .c-data .c-r-btn {
     font-size: 14px;
     font-family: $font-1;
-    color: $black;
+    color: $blue;
     padding: 11px 17px;
     position: absolute;
     top: -1px;
@@ -991,7 +992,7 @@ button.scrollTopStick:hover i {
 
 /* 2. Service Style One Start */
 .service-style-one .service-data {
-    width: 80%;
+    width: 60%;
     margin: auto;
     position: relative;
 }
@@ -1052,7 +1053,7 @@ button.scrollTopStick:hover i {
 }
 .service-style-one .service-data:before {
     content: "";
-    width: 190px;
+    width: 320px;
     height: 380px;
     background: $light-bg;
     position: absolute;
@@ -1189,7 +1190,7 @@ span.counter {
     position: relative;
 }
 .project-style-one .project-post .project-data {
-    padding: 35px 40px;
+    padding: 40px 50px;
     border: 1px solid #c1c1c1;
     background: $white;
     width: 90%;
@@ -1207,7 +1208,10 @@ span.counter {
 .project-style-one .project-post .project-data h3 a {
     font-size: 28px;
     line-height: 38px;
-    color: $black;
+    color: $blue;
+}
+.project-style-one .project-post .project-data h3 {
+    color: $blue;
 }
 .project-style-one .project-post .project-data .project-icon {
     content: "\f101";
@@ -1222,7 +1226,7 @@ span.counter {
     transform: skew(-25.7deg, 0deg);
     top: 0;
     right: -16px;
-    color: $black;
+    color: $blue;
     background: #c1c1c1;
 }
 .project-style-one .project-post .project-data:hover .project-icon {
@@ -1272,8 +1276,8 @@ span.counter {
     margin-left: 0 !important;
 }
 .project-style-one .project-slider .swiper-pagination span.swiper-pagination-bullet-active {
-    background-color: $black;
-    border-color: $black;
+    background-color: $blue;
+    border-color: $blue;
 }
 .project-style-one .swiper-slide .project-post img {
     height: 395px;
@@ -1316,7 +1320,7 @@ span.counter {
 .team-style-one .team-data .team-info h3 {
     font-size: 30px;
     line-height: 40px;
-    color: $black;
+    color: $blue;
     margin-bottom: 5px;
 }
 .team-style-one .team-data .team-info p {
@@ -1347,11 +1351,11 @@ span.counter {
     color: $white;
 }
 .team-style-one .team-data .team-social-media a:hover:before {
-    background: $black;
+    background: $blue;
 }
 .team-style-one .team-data .team-social-media a i {
     font-size: $text-sm;
-    color: $black;
+    color: $blue;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -1599,7 +1603,7 @@ span.counter {
     content: "";
     width: 100%;
     height: 100%;
-    background: $black;
+    background: $blue;
     position: absolute;
     top: 0;
     left: 0;
@@ -1619,7 +1623,7 @@ span.counter {
 }
 .featured-slider-one .f-slider-layer:before {
     content: "";
-    background: $black;
+    background: $blue;
     width: 100%;
     height: 100%;
     position: absolute;
@@ -1656,7 +1660,7 @@ span.counter {
 }
 .core-features button.accordion-button:before {
     content: "";
-    background: $black;
+    background: $blue;
     width: 10px;
     height: 100%;
     position: absolute;
@@ -1751,7 +1755,7 @@ span.counter {
 }
 .renovation .parallax:before {
     content: "";
-    background: $black;
+    background: $blue;
     width: 100%;
     height: 100%;
     position: absolute;
@@ -1784,6 +1788,7 @@ span.counter {
 .renovation .reno-data h3 {
     font-size: $text-lg;
     line-height: 35px;
+    color: $accent-1;
 }
 .renovation .reno-data h2 {
     font-size: 100px;
@@ -1896,8 +1901,8 @@ span.counter {
     margin-left: 0 !important;
 }
 .client-review-slider .swiper-pagination span.swiper-pagination-bullet-active {
-    background-color: $black;
-    border-color: $black;
+    background-color: $blue;
+    border-color: $blue;
 }
 /* 11. Client Review Style One End */
 
@@ -1908,14 +1913,14 @@ span.counter {
     text-transform: capitalize;
 }
 .blog-style-one .blog-post h2 a {
-    color: $black;
+    color: $blue;
 }
 .blog-style-one .blog-data {
     padding: 20px 25px;
 }
 .blog-style-one .blog-data .blog-date {
     font-size: $text-sm;
-    color: $black;
+    color: $blue;
     font-family: $font-1;
     padding: 8px 40px 8px 20px;
     display: inline-flex;
@@ -1975,7 +1980,7 @@ span.counter {
     right: -60px;
 }
 .blog-style-one .blog-post .blog-image a i {
-    color: $black;
+    color: $blue;
 }
 .blog-style-one .blog-post .blog-image {
     position: relative;
@@ -2193,13 +2198,14 @@ span.counter {
     top: 0;
     width: 100%;
     z-index: 99;
+    background-color: $white;
 }
 .header-style-one .nav-bar > ul {
     display: flex;
 }
 .header-style-one .nav-bar ul li a {
     font-size: $text-sm;
-    color: $white;
+    color: $blue;
     font-family: $font-1;
 }
 .header-style-one .nav-bar > ul > li:not(:last-child) {
@@ -2212,7 +2218,7 @@ span.counter {
 }
 .header-style-one .desktop-nav.slideDown,
 .header-style-one .desktop-nav.slideUp {
-    background: $black;
+    background: $white;
     width: 100%;
 }
 .desktop-nav,
@@ -2356,11 +2362,12 @@ span.counter {
     -webkit-box-shadow: 2px 3px 35px 0px rgb(0 0 0 / 10%);;
 }
 .desktop-nav .nav-bar .extras .menu-start svg {
-    fill: $white;
+    fill: $blue;
     width: 50px;
     height: 50px;
     margin-left: 10px;
     margin-right: 30px;
+    background: $blue;
 }
 .desktop-nav .nav-bar .extras .menu-start {
     display: none;
@@ -2379,7 +2386,7 @@ span.counter {
     top: 0;
     left: -5px;
     z-index: -1;
-    background: $black;
+    background: $blue;
 }
 .desktop-nav .nav-bar .extras a.pr-cart {
     position: relative;
@@ -2387,7 +2394,7 @@ span.counter {
 }
 .desktop-nav .nav-bar .extras a.pr-cart:before {
     content: "2";
-    color: $black;
+    color: $blue;
     width: 15px;
     height: 15px;
     position: absolute;
@@ -2451,7 +2458,7 @@ span.counter {
     margin-bottom: 5px;
 }
 .header-style-one .cart-popup .p-data h3 a {
-    color: $black;
+    color: $white;
 }
 .cart-popup .p-data {
     padding-left: 10px;
@@ -2542,10 +2549,10 @@ span.counter {
     width: 25px;
     height: 20px;
     margin: 0;
-    fill: $white;
+    fill: $blue;
 }
 .desktop-nav .nav-bar .extras .theme-btn:hover svg {
-    fill: $black;
+    fill: $blue;
 }
 .mobile-nav {
     position: fixed;
@@ -2562,7 +2569,7 @@ span.counter {
     -moz-transform: translateX(-101%);
     -o-transform: translateX(-101%);
     overflow-y: auto;
-    background: $black;
+    background: $blue;
 }
 .mobile-nav.desktop-menu {
     width: 400px;
@@ -2575,7 +2582,7 @@ span.counter {
 .mobile-nav.desktop-menu .social-medias a,
 .mobile-nav.desktop-menu p,
 .mobile-nav.desktop-menu .des {
-    color: $black;
+    color: $blue;
 }
 .mobile-nav.desktop-menu .social-medias a {
     font-size: $text-sm;
@@ -2929,10 +2936,10 @@ span.counter {
     color: $white;
 }
 .pricing-plans .price-box:hover .theme-btn i:after {
-    background: $black;
+    background: $blue;
 }
 .pricing-plans .price-box:hover .theme-btn {
-    color: $black;
+    color: $blue;
 }
 .pricing-plans .price-box:hover .theme-btn:after {
     border-top-color: $accent-1;
@@ -2985,7 +2992,7 @@ span.counter {
     transform: translateY(0);
 }
 .pricing-plans .main-price:hover .price-box {
-    background: $black;
+    background: $blue;
 }
 .pricing-plans .main-price:hover .price-box > p,
 .pricing-plans .main-price:hover .price-box .price p {
@@ -3134,7 +3141,7 @@ span.counter {
 .certificates .data .extras {
     width: 200px;
     height: 200px;
-    background: $black;
+    background: $blue;
     border-radius: 100%;
     display: grid;
     flex-wrap: wrap;
@@ -3213,7 +3220,7 @@ span.counter {
     font-size: $text-sm;
     color: $text-color;
     font-family: $font-1;
-    border-bottom: 1px solid $black;
+    border-bottom: 1px solid $blue;
 }
 .certificates .c-slider .c-main .c-second h3 {
     font-size: 24px;
@@ -3255,7 +3262,7 @@ span.counter {
     margin-top: 8px;
 }
 .blog-style-two .blog-item h2 a {
-    color: $black;
+    color: $blue;
 }
 .blog-style-two .blog-item p {
     line-height: 28px;
@@ -3263,7 +3270,7 @@ span.counter {
 .blog-style-two .blog-item .blog-date {
     font-size: $text-sm;
     font-family: $font-1;
-    color: $black;
+    color: $blue;
     position: relative;
     font-weight: bold;
 }
@@ -3282,7 +3289,7 @@ span.counter {
     font-family: $font-1;
     -webkit-text-fill-color: transparent;
     -webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: $black;
+    -webkit-text-stroke-color: $blue;
     margin-bottom: 28px;
     font-weight: 900;
 }
@@ -3294,7 +3301,7 @@ span.counter {
     z-index: 1;
 }
 .blog-style-two .blog-item a i{
-    color: $black;
+    color: $blue;
 }
 .blog-style-two .blog-item {
     position: relative;
@@ -3351,8 +3358,8 @@ span.counter {
     margin-left: 0 !important;
 }
 .blog-style-two .blog-slider .swiper-pagination span.swiper-pagination-bullet-active {
-    background: $black;
-    border-color: $black;
+    background: $blue;
+    border-color: $blue;
 }
 /* 19. Blog Style Two End */
 
@@ -3399,7 +3406,7 @@ span.counter {
     font-weight: 500;
 }
 .estimated-price .est-form .est-main .est-price {
-    background: $black;
+    background: $blue;
 }
 .estimated-price .est-form .est-main .est-price p {
     color: $white;
@@ -3478,7 +3485,7 @@ span.counter {
     position: absolute;
     top: -5px;
     left: 0;
-    color: $black;
+    color: $blue;
 }
 .contact-us .c-data ul li a i:before {
     width: 25px;
@@ -3504,7 +3511,7 @@ span.counter {
     content: "";
     width: 100%;
     height: 100%;
-    background: $black;
+    background: $blue;
     position: absolute;
     top: 0;
     left: 0;
@@ -3567,7 +3574,7 @@ span.counter {
 .contact-us .c-cards .card ul li span,
 .contact-us .c-cards .card .details .address {
     font-size: $text-sm;
-    color: $black;
+    color: $blue;
 }
 .contact-us .c-cards .card ul li span {
     width: 13%;
@@ -3687,11 +3694,23 @@ span.counter {
 .history-style-one .history-data {
     position: relative;
 }
+
+.history-style-one .history-data figure {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    overflow: hidden;
+    object-fit: fill;
+    padding: 2px;
+}
+// .history-style-one .history-data figure img {
+//     border-radius: 40px;
+// }
 .history-style-one .history-data figure:before {
     content: "";
     background: $black;
-    width: 100%;
-    height: 100%;
+    width: 500px;
+    height: 500px;
     position: absolute;
     top: 0;
     left: 0;
@@ -3728,10 +3747,11 @@ span.counter {
     margin-top: 20px;
 }
 .cta-section .cta-data .theme-btn:hover {
-    color: $black;
+    color: $blue;
 }
 .cta-section .cta-data figure img {
     margin-left: -205px;
+    border-radius: 40px;
 }
 .cta-section .cta-data figure {
     position: relative;
@@ -3767,7 +3787,7 @@ span.counter {
 .shop-style-one .product .price-range span {
     font-size: $text-md;
     font-family: $font-1;
-    color: $black;
+    color: $blue;
 
 }
 .shop-style-one .product .price-range {
@@ -3797,8 +3817,8 @@ span.counter {
     margin-left: 0 !important;
 }
 .shop-style-one .p-slider .swiper-pagination span.swiper-pagination-bullet-active {
-    background: $black;
-    border-color: $black;
+    background: $blue;
+    border-color: $blue;
 }
 .shop-style-one .p-slider .product figure img {
     width: 100%;
@@ -3842,7 +3862,7 @@ span.counter {
     padding: 30px 40px;
 }
 .shop-style-one.addition .row.list > div .product .theme-btn:hover {
-    color: $black;
+    color: $blue;
 }
 .shop-style-one.addition .product .theme-btn {
     display: none;
@@ -3874,7 +3894,7 @@ span.counter {
     position: relative;
 }
 .shop-style-one.addition .shop-filter .gird-list a i {
-    color: $black;
+    color: $blue;
 }
 .shop-style-one.addition .shop-filter .gird-list {
     position: relative;
@@ -3912,7 +3932,7 @@ span.counter {
     border-top: 65px solid #f6f6f6;
 }
 .shop-style-one.addition .grid .product .btn-hover .theme-btn:hover {
-    color: $black;
+    color: $blue;
     background: #f6f6f6;
 }
 .shop-style-one.addition .grid .product:hover .btn-hover .theme-btn {
@@ -3965,7 +3985,7 @@ span.counter {
     margin-bottom: 5px;
 }
 .team-style-two .team-data h3 a {
-    color: $black;
+    color: $blue;
 }
 .team-style-two .team-data .contact svg {
     width: 25px;
@@ -3990,7 +4010,7 @@ span.counter {
 }
 .team-style-two .team-social-medias > a i {
     font-size: 17px;
-    color: $black;
+    color: $blue;
     transform: rotate(45deg);
 }
 .team-style-two .team-social-medias > a:hover i {
@@ -4024,11 +4044,11 @@ span.counter {
     color: $white;
 }
 .team-style-two .team-data .team-social-media a:hover:before {
-    background: $black;
+    background: $blue;
 }
 .team-style-two .team-data .team-social-media a i {
     font-size: $text-sm;
-    color: $black;
+    color: $blue;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -4055,7 +4075,7 @@ span.counter {
     font-size: 40px;
 }
 .project-completed .proj-data h3 a {
-    color: $black;
+    color: $blue;
 }
 .project-completed .proj-data p {
     width: 78%;
@@ -4094,7 +4114,7 @@ span.counter {
 }
 .project-completed .prj-slider-nav button i {
     font-size: $text-xs;
-    color: $black;
+    color: $blue;
 }
 .project-completed .prj-slider-nav {
     text-align: right;
@@ -4129,7 +4149,7 @@ span.counter {
 
 /* 27. Featured Section Three Start */
 .featured-section-three {
-    background: $black;
+    background: $blue;
     padding-top: 260px;
     height: 1200px;
     position: relative;
@@ -4186,10 +4206,13 @@ span.counter {
     top: 0;
     right: 0;
     z-index: -1;
+    width: 950px;
+    height: 633px;
 }
 .featured-section-three .image figure img {
-    max-height: 570px;
+    max-height: 400px;
     object-fit: cover;
+    border-radius: 40px;
 }
 .featured-section-three .info {
     text-align: center;
@@ -4277,7 +4300,7 @@ span.counter {
     margin-top: 42px;
 }
 .blog-style-three .blog-heading .theme-btn:hover {
-    color: $black;
+    color: $blue;
 }
 .blog-style-three .blog-heading {
     margin-top: 102px;
@@ -4314,7 +4337,7 @@ span.counter {
 }
 .blog-style-three .blog-posts h3 a,
 .blog-style-three .blog-posts .date {
-    color: $black;
+    color: $blue;
 }
 .blog-style-three .blog-posts .boxx {
     border: 1px solid #c1c1c1;
@@ -4329,7 +4352,7 @@ span.counter {
     width: 113%;
 }
 .blog-style-three .blog-posts .boxx:hover {
-    background: $black;
+    background: $blue;
 }
 .blog-style-three .blog-posts .boxx:hover h3 a,
 .blog-style-three .blog-posts .boxx:hover span {
@@ -4355,7 +4378,7 @@ span.counter {
 
 /* 30. Banner Style One Start */
 .banner-style-one {
-    background: $black;
+    background: $blue;
     padding-top: 215px;
     position: relative;
     z-index: 0;
@@ -4446,6 +4469,9 @@ span.counter {
     width: 100%;
     height: 100%;
 }
+.about-first .who-we-are figure img {
+    border-radius: 40px;
+}
 /* 31. About-First End */
 
 /* 32. About How It Works Start */
@@ -4480,6 +4506,7 @@ span.counter {
     height: 100%;
     object-fit: cover;
     object-position: center;
+    border-radius: 40px;
 }
 /* 32. About How It Works End */
 
@@ -4490,6 +4517,9 @@ span.counter {
 }
 .about-key-benefits .data figure {
     width: 91%;
+}
+.about-key-benefits .data figure img {
+    border-radius: 40px;
 }
 .about-key-benefits .data ul li i {
     color: $accent-2;
@@ -4678,7 +4708,7 @@ ul.social-medias {
 .construction-services .tab-content>.tab-pane figure figcaption {
     width: 460px;
     height: 240px;
-    background: $black;
+    background: $blue;
     display: grid;
     align-content: center;
     justify-items: flex-start;
@@ -4758,7 +4788,7 @@ ul.social-medias {
     padding-left: 30px;
 }
 .innovation ul li i {
-    color: $black;
+    color: $blue;
     font-size: 17px;
     margin-right: 15px;
 }
@@ -4958,7 +4988,7 @@ ul.social-medias {
 /* 46. Blog Style Three Start */
 .sidebar .box h3 {
     font-size: 24px;
-    color: $black;
+    color: $blue;
     border-bottom: 1px solid #efefef;
     position: relative;
     line-height: 55px;
@@ -4990,7 +5020,7 @@ ul.social-medias {
     justify-content: space-between;
 }
 .sidebar .box.recent-posts ul li p {
-    color: $black;
+    color: $blue;
     width: 70%;
     margin: 0;
 }
@@ -5007,7 +5037,7 @@ ul.social-medias {
 }
 .sidebar .box.recent-posts ul li a i {
     font-size: 11px;
-    color: $black;
+    color: $blue;
     transform: rotate(45deg);
 }
 .sidebar .box.recent-posts ul li a:hover i {
@@ -5018,7 +5048,7 @@ ul.social-medias {
 }
 .sidebar .box.recent-cmnts h4 {
     font-size: $text-sm;
-    color: $black;
+    color: $blue;
     font-weight: bold;
     font-family: $font-1;
     margin-bottom: 5px;
@@ -5051,7 +5081,7 @@ ul.social-medias {
 
 /* 47. Featured Slider Two Start */
 .featured-slider-two {
-    background: $black;
+    background: $blue;
     height: 800px;
     position: relative;
     z-index: 0;
@@ -5141,7 +5171,7 @@ ul.social-medias {
 
 /* 48. What-we-build Start */
 .what-we-build {
-    background: $black;
+    background: $blue;
     position: relative;
     z-index: 0;
 }
@@ -5291,10 +5321,11 @@ ul.social-medias {
     width: 100%;
     margin-bottom: 25px;
 }
-.service-detail-first .s-d-gallery {
-}
+// .service-detail-first .s-d-gallery {
+
+// }
 .about-first.service-detail-first .innovation ul li i {
-    color: $black;
+    color: $blue;
     font-size: 17px;
     margin-right: 15px;
 }
@@ -5345,8 +5376,8 @@ ul.social-medias {
     margin-left: 0 !important;
 }
 .project-detail-slider .p-d-slider .swiper-pagination span.swiper-pagination-bullet-active {
-    background: $black;
-    border-color: $black;
+    background: $blue;
+    border-color: $blue;
 }
 .detail-page .include li {
     font-size: $text-sm;
@@ -5404,7 +5435,7 @@ ul.social-medias {
 }
 .next-prev-projects li a i {
     font-size: 28px;
-    color: $black;
+    color: $blue;
 }
 .next-prev-projects {
     display: flex;
@@ -5517,7 +5548,7 @@ ul.social-medias {
 }
 .team-detail .team-data h3 {
     font-size: 40px;
-    color: $black;
+    color: $blue;
     font-family: $font-1;
     margin-bottom: 5px;
 }
@@ -5564,7 +5595,7 @@ ul.social-medias {
     margin-top: 37px;
 }
 .team-detail .team-data .t-tel {
-    background: $black;
+    background: $blue;
     width: 97%;
     padding: 40px;
     margin-top: 80px;
@@ -5606,7 +5637,7 @@ ul.social-medias {
     line-height: 28px;
 }
 .team-detail .fav-project .f-p-box h2 a {
-    color: $black;
+    color: $blue;
 }
 .team-detail .fav-project .f-p-box .f-p-contact li {
     display: flex;
@@ -5636,7 +5667,7 @@ ul.social-medias {
     margin-top: 37px;
 }
 .team-detail .fav-project .f-p-box .f-p-btn i {
-    color: $black;
+    color: $blue;
     transform: rotate(45deg);
 }
 .team-detail .fav-project .f-p-box .f-p-btn:hover i {
@@ -5645,7 +5676,7 @@ ul.social-medias {
 .team-detail .fav-project h3 {
     font-size: $text-md;
     margin-bottom: 20px;
-    color: $black;
+    color: $blue;
 }
 .team-detail .fav-project .row .col-lg-4 {
     position: relative;
@@ -5711,12 +5742,12 @@ ul.pd-imgs {
     letter-spacing: 1.5px;
 }
 .pd-data .theme-btn:hover {
-    color: $black;
+    color: $blue;
 }
 .pd-data .free-ship {
     font-size: $text-sm;
     font-weight: 600;
-    color: $black;
+    color: $blue;
     text-transform: capitalize;
     margin-bottom: 20px;
     margin-top: 3px;
@@ -5728,7 +5759,7 @@ ul.pd-imgs {
 ul.pd-price li.pd-sale-price, 
 ul.pd-price li.pd-sale-price span {
     font-size: 28px;
-    color: $black;
+    color: $blue;
     font-family: $font-1;
     line-height: 30px;
     font-weight: bold;
@@ -5934,7 +5965,7 @@ ul.pd-price li:not(:last-child){
 .pd-details .nav-pills .nav-link {
     text-align: left;
     font-size: 18px;
-    color: $black;
+    color: $blue;
     font-weight: bold;
     font-family: $font-1;
     clip-path: polygon(0 0, 100% 0%, 93% 100%, 0% 100%);
@@ -5989,11 +6020,11 @@ ul.pd-price li:not(:last-child){
 }
 .review .load-more {
     font-size: 18px;
-    background: $black;
+    background: $blue;
 }
 .review .load-more {
     font-size: 18px;
-    background: $black;
+    background: $blue;
     display: flex;
     width: 100%;
     color: $white;
@@ -6026,7 +6057,7 @@ ul.pd-price li:not(:last-child){
 }
 .rev-tab .total-reviews .f-r .r-s i {
     font-size: 18px;
-    color: $black;
+    color: $blue;
 }
 .rev-tab .total-reviews .f-r .r-s {
     margin-right: 45px;
@@ -6041,7 +6072,7 @@ ul.pd-price li:not(:last-child){
 }
 .rev-tab .post-review .select-rating span {
     font-size: $text-sm;
-    color: $black;
+    color: $blue;
     margin-right: 25px;
     margin-top: 3px;
 }
@@ -6079,7 +6110,7 @@ ul.pd-price li:not(:last-child){
     top: 0;
     left: 0;
     width: 100%;
-    background: $black;
+    background: $blue;
 }
 .slideUp,
 .slideDown{
@@ -6191,7 +6222,7 @@ ul.pd-price li:not(:last-child){
     border-top: 0;
 }
 .cart .update-cart .theme-btn:hover {
-    color: $black;
+    color: $blue;
 }
 .cart .update-cart .theme-btn {
     padding: 18px 60px 18px 40px;
@@ -6223,7 +6254,7 @@ ul.pd-price li:not(:last-child){
     padding-right: 30px;
 }
 .cart-total-box {
-    background: $black;
+    background: $blue;
     position: relative;
     margin-left: 55px;
     z-index: 0;
@@ -6262,7 +6293,7 @@ ul.pd-price li:not(:last-child){
 }
 .cart-total-box .total ul li span {
     font-size: 28px;
-    color: $black;
+    color: $blue;
 }
 .cart-total-box .theme-btn {
     display: block;
@@ -6278,7 +6309,7 @@ ul.pd-price li:not(:last-child){
 }
 .cart-total-box .theme-btn:hover {
     background: $white;
-    color: $black;
+    color: $blue;
 }
 /* 54. Cart Page End */
 
@@ -6329,8 +6360,8 @@ ul.pd-price li:not(:last-child){
     clip-path: unset;
 }
 .checkout .billing .select-wrapper:after {
-    border-bottom: 2px solid $black;
-    border-right: 2px solid $black;
+    border-bottom: 2px solid $blue;
+    border-right: 2px solid $blue;
     height: 8px;
     right: 29px;
     width: 8px;
@@ -6597,7 +6628,7 @@ ul.pd-price li:not(:last-child){
     content: "";
     width: 100%;
     height: 100%;
-    border: 2px solid $black;
+    border: 2px solid $blue;
     border-top: 2px solid $accent-1;
     border-radius: 50%;
     position: absolute;
@@ -6680,7 +6711,7 @@ ul.pd-price li:not(:last-child){
     margin-top: 25px;
 }
 .box form button:hover {
-    color: $black;
+    color: $blue;
 }
 .box form .remember input[type=checkbox] {
     width: 15px;
@@ -6717,7 +6748,7 @@ ul.pd-price li:not(:last-child){
     border: 1px solid;
 }
 .box.register {
-    background-color: $black;
+    background-color: $blue;
     position: relative;
     z-index: 0;
 }
@@ -6772,7 +6803,7 @@ ul.pd-price li:not(:last-child){
 
 /* 61. Where We Work Start */
 .where-we-work {
-    background: $black;
+    background: $blue;
     position: relative;
     z-index: 0;
     overflow: hidden;
@@ -6840,7 +6871,7 @@ ul.pd-price li:not(:last-child){
     height: 26px;
     display: inline-flex;
     border-radius: 100px;
-    border: 6px solid $black;
+    border: 6px solid $blue;
     position: absolute;
 }
 .first .tab-data ul li:nth-child(1) {
@@ -6952,7 +6983,7 @@ img.mfp-img {
 
 /* 404 page */
 .sb-404 {
-    background-color: $black;
+    background-color: $blue;
     padding-top: 108px;
     color: $white;
     background-image: url(/images/pattren-5.png);

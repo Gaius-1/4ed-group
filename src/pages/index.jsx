@@ -16,10 +16,12 @@ import LocationsSection from "@components/sections/Locations";
 import ContactFormSection from "@components/sections/ContactForm";
 
 const HeroSlider = dynamic( () => import("@components/sliders/Hero"), { ssr: false } );
+const ProductSlider = dynamic( () => import("@components/sliders/Products"), { ssr: false } );
 const Projects2Slider = dynamic( () => import("@components/sliders/Projects2"), { ssr: false } );
+const ProjectsSlider = dynamic( () => import("@components/sliders/Projects"), { ssr: false } );
 const CertificatesSlider = dynamic( () => import("@components/sliders/Certificates"), { ssr: false } );
 const PartnersSlider = dynamic( () => import("@components/sliders/Partners"), { ssr: false } );
-const TestimonialSlider = dynamic( () => import("@components/sliders/Testimonial"), { ssr: false } );
+// const TestimonialSlider = dynamic( () => import("@components/sliders/Testimonial"), { ssr: false } );
 
 
 const Home1 = (props) => {
@@ -27,21 +29,22 @@ const Home1 = (props) => {
     <Layouts contactButton transparent>
       <>
         {/* video banner */}
-        <Hero3Section />
         {/* image slider banner */}
-        {/* <HeroSlider /> */}
-        <AboutSection />
-        <CountersSection />
-        <Projects2Slider projects={props.projects} />
-        <OwnersSection />
+        <HeroSlider />
+        {/* <AboutSection /> */}
         <About3Section id="exclusive-services"/>
+        <CountersSection />
         <FeaturesSection />
+        <Hero3Section />
+        <Projects2Slider projects={props.projects} />
+        {/* <OwnersSection /> */}
         <PartnersSlider />
-        <CertificatesSlider />
-        <EstimatedPriceSection />
-        <RenovationSection />
-        <TestimonialSlider />
-        <LocationsSection />
+        {/* <CertificatesSlider /> */}
+        {/* <EstimatedPriceSection /> */}
+        {/* <RenovationSection /> */}
+        {/* <TestimonialSlider /> */}
+        {/* <LocationsSection /> */}
+        <ProductSlider />
         <ContactFormSection />
       </>
     </Layouts>

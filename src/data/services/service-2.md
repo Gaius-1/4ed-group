@@ -1,24 +1,24 @@
 ---
 #preview details
-image: "img/serv-i-2.svg"
-title: "Project Development"
-short: "Designing and Building The Most Beautiful Custom Homes."
+image: "/img/services/civil.jpg"
+title: "Civil Services"
+short: "SM Engineering offers integrated civil engineering solutions, leveraging the latest technology and innovation to deliver sustainable and high-quality results. From design and construction to infrastructure development and maintenance, we are dedicated to providing efficient, safe, and environmentally conscious services."
 
 #full details
 description0:
   enabled: 1
   text1: "
-    <h3>Service Details</h3>
-    <p>We successfully cope with tasks of varying complexity, provide long-term guarantees and regularly master new technologies. Our portfolio includes <span>dozens of successfully</span> completed projects of houses of different storeys, with high–quality finishes and good repairs. Building houses is our vocation!</p>
+    <h3>Our Commitment</h3>
+    <p>At SM Engineering, we take pride in delivering exceptional civil engineering solutions. Our approach combines technical excellence, innovation, and sustainability to ensure projects are completed to the highest standards. Whether it's design, construction, or maintenance, we aim to exceed client expectations with our expertise and dedication.</p>
   "
   text2: "
-    <h3>Service Benefits</h3>
+    <h3>Why Choose Us?</h3>
     <ul>
-      <li>Better defined projects, reducing risk and increasing success</li>
-      <li>We provide legislative compliance</li>
-      <li>Cost savings by getting expert advice during the project strategy and estimating</li>
-      <li>Realistic pricing and project timescales</li>
-      <li>Global access to services from world-wide construction consultancy</li>
+      <li>Comprehensive project planning and execution</li>
+      <li>Commitment to health, safety, and environmental consciousness</li>
+      <li>Innovative solutions tailored to your needs</li>
+      <li>High-quality services ensuring long-term durability</li>
+      <li>Expert project management to reduce risk and optimize outcomes</li>
     </ul>
   "
 
@@ -26,53 +26,55 @@ gallery:
   enabled: 1
   items:
       - image: /img/gallery-1.jpeg
-        alt: "image"
+        alt: "Project in progress"
 
       - image: /img/gallery-2.jpeg
-        alt: "image"
+        alt: "Completed civil project"
 
       - image: /img/gallery-3.jpeg
-        alt: "image"
+        alt: "Infrastructure development"
 
       - image: /img/gallery-4.jpeg
-        alt: "image"
+        alt: "On-site team"
 
       - image: /img/gallery-5.jpeg
-        alt: "image"          
+        alt: "State-of-the-art equipment"
 
 checklist:
   enabled: 1
-  title: What can we support with?
+  title: Our Core Services
   items:
-    - Dedication to client satisfaction
-    - Dedication to client satisfaction
-    - Dedication to client satisfaction
-    - Dedication to client satisfaction
-    - Dedication to client satisfaction
-    - Dedication to client satisfaction
+    - Design and construction of residential, commercial, and industrial facilities
+    - Infrastructure development for sustainable communities
+    - Environmental engineering to promote eco-friendly practices
+    - Project management for streamlined and cost-effective solutions
+    - Maintenance and rehabilitation of existing structures
 
 accordion:
   enabled: 1
-  title: Reporting and Cost Control
+  title: Frequently Asked Questions
   items:
-    - heading: Occupational Health Risk Management?
-      content: Commercial management in construction ensures the planning, execution, and coordination of a construction project from the start to finish. These are often for specific projects such as building or renovation projects that are sold or leased.
+    - heading: What does SM Engineering specialize in?
+      content: SM Engineering specializes in civil engineering services, including design, construction, infrastructure development, environmental engineering, and project management.
 
-    - heading: What is commercial management in construction?
-      content: Commercial management in construction ensures the planning, execution, and coordination of a construction project from the start to finish. These are often for specific projects such as building or renovation projects that are sold or leased.
+    - heading: How do you ensure project quality and safety?
+      content: We prioritize health, safety, and environmental consciousness in every project. Our team adheres to strict quality standards and employs the latest technology to deliver durable and reliable results.
 
-    - heading: Start a construction management?
-      content: Commercial management in construction ensures the planning, execution, and coordination of a construction project from the start to finish. These are often for specific projects such as building or renovation projects that are sold or leased.
+    - heading: What is your approach to sustainable construction?
+      content: Sustainability is at the core of our operations. We integrate eco-friendly materials and innovative techniques to minimize environmental impact and promote long-term resilience in our projects.
 
-    - heading: Measure quality in construction projects?
-      content: Commercial management in construction ensures the planning, execution, and coordination of a construction project from the start to finish. These are often for specific projects such as building or renovation projects that are sold or leased.
+    - heading: Do you provide maintenance services for completed projects?
+      content: Yes, we offer maintenance and rehabilitation services to ensure the longevity and optimal performance of existing structures.
 
-    - heading: Prepare a construction project schedule?
-      content: Commercial management in construction ensures the planning, execution, and coordination of a construction project from the start to finish. These are often for specific projects such as building or renovation projects that are sold or leased.
+    - heading: Can you manage large-scale infrastructure projects?
+      content: Absolutely. Our team has extensive experience managing complex infrastructure projects, ensuring timely delivery and adherence to budget constraints.
 ---
 
-### Highest Expectations
+### What We Offer?
 
-In addition to construction consultancy services **Bureau Veritas is a global leader in testing**, inspection and certification (TIC) and we have more than 190+ years of experience meaning that we also can assist you in other areas of your business if needed.
+As we celebrate a decade in operation, SM Engineering reaffirms its commitment to delivering sustainable engineering solutions. Our focus on innovation, talent development, and ethical business practices ensures we provide integrated solutions of the highest quality. 
+Our team combines decades of expertise with the latest technology to deliver exceptional results across various engineering disciplines. We are dedicated to sustainability, quality, and client satisfaction, making us the trusted partner for your civil and electrical engineering needs.
 
-Our knowledgeable cost management experts understand the importance of delivering a project to meet your expectations in terms of cost, time, and quality. We will work with you to find the right, flexible and valuable solutions. No matter what sector you operate in, or the **scale of your project**, our team have the experience and know-how to support you with your goals.
+[Contact Us](mailto:infosmengco@gmail.com) to learn more about how we can support your next project.
+
+---
