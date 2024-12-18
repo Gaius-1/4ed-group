@@ -1,0 +1,10 @@
+{
+  "title": "Services",
+  "description": "We offer a broad range of services for small and large projects",
+  "video": {
+      "url": "https://bslthemes.com/mp4/builty/video.mp4",
+      "poster": "/img/thumbnail.jpg",
+      "alt": "image"
+  },
+  "info": "<span>Committed to Excellence</span>."
+}

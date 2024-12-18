@@ -9,6 +9,7 @@ import 'react-modal-video/css/modal-video.css';
 
 import { getSortedServicesData } from "@library/services";
 
+import ServiceSection from "@components/sections/ServicePage";
 import CallToActionSection from "@components/sections/CallToAction";
 import ServicesSection from "@components/sections/Services";
 import CountersSection from "@components/sections/Counters";
@@ -18,7 +19,8 @@ const Services = (props) => {
 
   return (
     <Layouts>
-      <PageBanner pageTitle={"Services"} pageDesc={"We offer a broad range of services for small and large projects."} />
+      {/* <PageBanner pageTitle={"Services"} pageDesc={"We offer a broad range of services for small and large projects."} /> */}
+      <ServiceSection />
 
       {/* <ServicesSection /> */}
 
@@ -71,7 +73,7 @@ const Services = (props) => {
       {/* <CountersSection /> */}
 
       {/* Video PopUp Start */}
-      <div className="gap video-popup">
+      {/* <div className="gap video-popup">
         <div className="container-fluid g-0">
           <div className="row">
             <figure>
@@ -83,7 +85,7 @@ const Services = (props) => {
           </div>
         </div>
       </div>
-      <ModalVideo channel='youtube' isOpen={isOpen} videoId="uemObN8_dcw" onClose={() => setOpen(false)} />
+      <ModalVideo channel='youtube' isOpen={isOpen} videoId="uemObN8_dcw" onClose={() => setOpen(false)} /> */}
       {/* Video PopUp Start */}
 
       {/* Service Style Two Start */}

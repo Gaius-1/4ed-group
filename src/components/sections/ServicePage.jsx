@@ -1,6 +1,6 @@
-import Data from "@data/sections/hero-3.json";
+import Data from "@data/sections/services-page.json";
 
-const Hero3Section = () => {
+const ServiceSection = () => {
     const styles = {
         parallax: {
             "backgroundImage": "url(/images/pattren-2.png)"
@@ -52,4 +52,4 @@ const Hero3Section = () => {
     );
 };
 
-export default Hero3Section;
+export default ServiceSection;
