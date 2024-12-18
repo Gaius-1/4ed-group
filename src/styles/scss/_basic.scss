@@ -3781,14 +3781,32 @@ span.counter {
 .shop-style-one .product {
     border: 1px solid #c1c1c1;
     padding: 30px;
-    width: 81%;
+    width: 100%;
     background: $white;
+    border-radius: 10px;
+    transition: all 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.shop-style-one .product:hover {
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    transform: translateY(-5px);
+}
+.shop-style-one .product:hover figure img {
+    transform: scale(1.05);
 }
 .shop-style-one .product .price-range span {
     font-size: $text-md;
     font-family: $font-1;
     color: $blue;
-
+}
+.shop-style-one .product .data {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 .shop-style-one .product .price-range {
     margin-top: 3px;
@@ -3820,23 +3838,32 @@ span.counter {
     background: $blue;
     border-color: $blue;
 }
+.shop-style-one .p-slider .product figure {
+    height: 290px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
 .shop-style-one .p-slider .product figure img {
     width: 100%;
-    height: 290px;
-    object-fit: contain;
+    height: 100%;
+    object-fit: fill;
+    transition: transform 0.3s ease;
 }
 .shop-style-one .p-slider .swiper-slide.swiper-slide-next .product {
-    margin: 50px 0 !important;
+    margin: 0 !important;
 }
 .shop-style-one .p-slider .swiper-slide.swiper-slide-next .product figure img {
-    height: 200px;
-    object-fit: contain;
+    // height: 200px;
+    object-fit: fill;
 }
 .shop-style-one.addition {
     background: $white;
 }
 .shop-style-one.addition .p-slider div:nth-child(even) .product img {
-    height: 200px;
+    width: 100%;
 }
 .shop-style-one.addition .list .p-slider > div {
     margin-bottom: 50px;
@@ -3960,6 +3987,87 @@ span.counter {
 .shop-style-one.addition .list .product .btn-hover figure:before {
     display: none !important;
 }
+
+
+.shop-style-one .swiper-container {
+    overflow: hidden;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.shop-style-one .swiper-slide {
+    height: auto;
+    opacity: 0.4;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    display: flex;
+}
+
+.shop-style-one .swiper-slide-active,
+.shop-style-one .swiper-slide-next,
+.shop-style-one .swiper-slide-prev {
+    opacity: 1;
+}
+
+.shop-style-one .swiper-button-prev,
+.shop-style-one .swiper-button-next {
+    width: 50px;
+    height: 50px;
+    background-color: $blue;
+    border-radius: 50%;
+    color: $white;
+    transition: all 0.3s ease;
+}
+
+.shop-style-one .swiper-button-prev:hover,
+.shop-style-one .swiper-button-next:hover {
+    background-color: darken($blue, 10%);
+}
+
+.shop-style-one .swiper-button-prev::after,
+.shop-style-one .swiper-button-next::after {
+    font-size: 20px;
+}
+
+.shop-style-one .swiper-pagination-bullet {
+    width: 12px;
+    height: 12px;
+    background-color: $blue;
+    opacity: 0.5;
+    transition: all 0.3s ease;
+}
+
+.shop-style-one .swiper-pagination-bullet-active {
+    opacity: 1;
+    background-color: $blue;
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translate3d(0, 20px, 0);
+    }
+    to {
+        opacity: 1;
+        transform: translate3d(0, 0, 0);
+    }
+}
+
+@keyframes fadeInRight {
+    from {
+        opacity: 0;
+        transform: translate3d(20px, 0, 0);
+    }
+    to {
+        opacity: 1;
+        transform: translate3d(0, 0, 0);
+    }
+}
+
+.shop-style-one .swiper-slide-active .product {
+    animation: fadeInRight 0.5s ease-out forwards;
+}
+
+
 /* 24. Shop Style One End */
 
 /* 25. Team Style Two Start */

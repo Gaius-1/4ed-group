@@ -157,12 +157,12 @@ export const sliderProps = {
     slidesPerView: 3,
     spaceBetween: 10,
     speed: 800,
-    effect: 'fade',
-    fadeEffect: {
-      crossFade: true
-    },
+    // effect: 'fade',
+    // fadeEffect: {
+    //   crossFade: true
+    // },
     autoplay: {
-      delay: 5000,
+      delay: 2000,
     },
     loop: true,
     pagination: {
