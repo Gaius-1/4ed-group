@@ -17,8 +17,8 @@ const ProductsSlider = () => {
             <div className="container">
                 <Swiper
                     // modules={[Navigation, Pagination]}
-                    navigation={true}
-                    pagination={{ clickable: true }}
+                    // navigation={true}
+                    // pagination={{ clickable: true }}
                     className="row p-slider align-items-center justify-content-between grid"
                     breakpoints={{
                         640: {

@@ -19,10 +19,12 @@ const HeroSlider = () => {
                         <div className="f-slider-one-data">
                             <h1>{item.title}</h1>
                             <p>{item.text}</p>
-                            {/* <Link href={item.button.link} className="theme-btn">
-                                {item.button.label}
-                                <i className="fa-solid fa-angles-right" />
-                            </Link> */}
+                            {item.button.label && (
+                                <Link href={item.button.link} className="theme-btn">
+                                    {item.button.label}
+                                    <i className="fa-solid fa-angles-right" />
+                                </Link>
+                            )}
                         </div>
                     </div>
                 </SwiperSlide>

@@ -33,7 +33,7 @@ const Portfolio = (props) => {
           </div>
         </div>
 
-        <div className="container">
+        {/* <div className="container">
           <div className="row">
             <div className="builty-pagination">
               <nav aria-label="Page navigation example">
@@ -49,7 +49,7 @@ const Portfolio = (props) => {
               </nav>
             </div>
           </div>
-        </div>
+        </div> */}
       </section>
       {/* Our Project Two End */}
       

@@ -5,8 +5,8 @@
             "title": "Delivering Excellence Responsibly",
             "text": "SM Engineering is a construction and architecture environmentally most responsible for any kinds of themes.",
             "button": {
-                "label": "About Us",
-                "link": "/about"
+                "label": "Get An Estimate Today",
+                "link": "/contact"
             }
         },
         {
@@ -14,8 +14,8 @@
             "title": "Investing in Our People",
             "text": "Developing a business responsibly can be quite challenging. Fortunately, at SM Engineering, we are all driven by our Vision, Mission and Values.",
             "button": {
-                "label": "Our Values",
-                "link": "/core-values"
+                "label": "",
+                "link": ""
             }
         },
         {
@@ -23,8 +23,8 @@
             "title": "Safe & Respectful Work Env.",
             "text": "We aim to provide our employees with a safe, conducive and a respectable work environment because we believe that motivated people deliver better performance and results.",
             "button": {
-                "label": "Our Team",
-                "link": "/leadership"
+                "label": "",
+                "link": ""
             }
         }
     ]

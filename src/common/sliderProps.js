@@ -71,8 +71,9 @@ export const sliderProps = {
     spaceBetween: 0,
     speed: 800,
     autoplay: {
-      delay: 4000,
+      delay: 2000,
     },
+    loop: true,
   },
   testimonialSlider: {
     slidesPerView: 1,
@@ -93,6 +94,7 @@ export const sliderProps = {
     autoplay: {
       delay: 4000,
     },
+    loop: true,
     pagination: {
       el: '.swiper-pagination',
       clickable: true,
@@ -153,8 +155,12 @@ export const sliderProps = {
   },
   productsSlider: {
     slidesPerView: 3,
-    spaceBetween: 0,
+    spaceBetween: 10,
     speed: 800,
+    effect: 'fade',
+    fadeEffect: {
+      crossFade: true
+    },
     autoplay: {
       delay: 5000,
     },

@@ -18,7 +18,7 @@ const Services = (props) => {
 
   return (
     <Layouts>
-      <PageBanner pageTitle={"Services"} pageDesc={"our values and vaulted us to the top of our industry."} />
+      <PageBanner pageTitle={"Services"} pageDesc={"We offer a broad range of services for small and large projects."} />
 
       {/* <ServicesSection /> */}
 

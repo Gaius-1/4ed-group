@@ -425,8 +425,8 @@ button.scrollTopStick.active:before,
     display: none;
 }
 .theme-btn:hover {
-    background-color: transparent;
-    color: $white;
+    background-color: $white;
+    color: $blue;
 }
 .theme-btn:hover i {
     color: $blue;
@@ -734,7 +734,7 @@ textarea {
     z-index: 9;
     bottom: 0;
     right: 0;
-    border-left: 40px solid $accent-1;
+    // border-left: 40px solid $accent-1;
     border-right: 50px solid #d1676700;
     border-bottom: 60px solid #ffee0200;
     transform: rotate(180deg);
