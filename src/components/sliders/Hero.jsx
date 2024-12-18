@@ -19,19 +19,19 @@ const HeroSlider = () => {
                         <div className="f-slider-one-data">
                             <h1>{item.title}</h1>
                             <p>{item.text}</p>
-                            <Link href={item.button.link} className="theme-btn">
+                            {/* <Link href={item.button.link} className="theme-btn">
                                 {item.button.label}
                                 <i className="fa-solid fa-angles-right" />
-                            </Link>
+                            </Link> */}
                         </div>
                     </div>
                 </SwiperSlide>
                 ))}
                 
-                <div className="swiper-nav">
+                {/* <div className="swiper-nav">
                     <button className="swiper-nav-prev"><i className="fa-solid fa-angles-left" /></button>
                     <button className="swiper-nav-next"><i className="fa-solid fa-angles-right" /></button>
-                </div>
+                </div> */}
             </Swiper>
         </div>
     </section>

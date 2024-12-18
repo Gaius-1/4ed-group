@@ -159,7 +159,7 @@ const Leadership = () => {
       </section>
       {/* Team Style Two (Revolution) End */}
       
-      <ContactForm2Section />
+      {/* <ContactForm2Section /> */}
 
       {/* <TeamSlider /> */}
       
