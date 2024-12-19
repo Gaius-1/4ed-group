@@ -33,8 +33,8 @@ const Leadership = () => {
       },
       {
           "image": "/img/siya.jpg",
-          "name": "Siya Ababio",
-          "role": "Vice President, Civil Infrastructure",
+          "name": "Jonathan Dartey",
+          "role": "Director Technical Services",
           "tel": "(+233) 50 318 47 07",
           "social": [
               {
@@ -52,8 +52,8 @@ const Leadership = () => {
       },
       {
           "image": "/img/zoe.jpg",
-          "name": "Sam Zoe Korankye",
-          "role": "Project Manager",
+          "name": "Akua Boahemaa",
+          "role": "Managing Director",
           "tel": "(+233) 57 318 47 07",
           "social": [
               {
@@ -71,8 +71,8 @@ const Leadership = () => {
       },
       {
           "image": "/img/cassie.jpg",
-          "name": "Cassie Yaa Yarboi",
-          "role": "General Secretary",
+          "name": "Rachel Amarh",
+          "role": "Finance & Accounts Manager",
           "tel": "(+233) 54 318 47 07",
           "social": [
               {
@@ -87,7 +87,26 @@ const Leadership = () => {
               }
           ],
           "link": "/team/team-7"
-      }
+      },
+      {
+        "image": "/img/cassie.jpg",
+        "name": "Ivan Adjetey",
+        "role": "Procurement Manager",
+        "tel": "(+233) 54 318 47 07",
+        "social": [
+            {
+                "link": "https://facebook.com/",
+                "icon": "fa-brands fa-facebook-f",
+                "title": "Facebook"
+            },
+            {
+                "link": "https://twitter.com/",
+                "icon": "fa-brands fa-twitter",
+                "title": "Twitter"
+            }
+        ],
+        "link": "/team/team-3"
+    }
     ]
   }
 
