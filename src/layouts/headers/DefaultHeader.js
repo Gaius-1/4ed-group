@@ -199,11 +199,11 @@ const DefaultHeader = ({ contactButton, cartButton }) => {
           </div>
 
           <div className="mobile-nav mobile-menu" id="mobile-nav">
-            <div className="res-log">
+            {/* <div className="res-log">
               <Link href="/">
                 <img src={appData.header.logo.image} alt={appData.header.logo.alt} />
               </Link>
-            </div>
+            </div> */}
 
             <ul>
               {navItems.map((item, key) => (
