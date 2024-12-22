@@ -1726,6 +1726,10 @@ span.counter {
 .core-features .shape {
     position: relative;
 }
+.core-features .shape .video figure img {
+    border-radius: 5%;
+    padding-bottom: 10px;
+}
 .core-features .video:before {
     content: "";
     width: 180px;
