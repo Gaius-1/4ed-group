@@ -26,7 +26,7 @@ const PageBanner = ({ pageTitle, pageDesc }) => {
             </div>
           </div>
         </div>
-        <div className="breadcrums">
+        {/* <div className="breadcrums">
           <div className="container">
             <div className="row">
               <ul>
@@ -42,7 +42,7 @@ const PageBanner = ({ pageTitle, pageDesc }) => {
               </ul>
             </div>
           </div>
-        </div>
+        </div> */}
       </section>
     </>
   );

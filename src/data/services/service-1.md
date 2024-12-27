@@ -27,19 +27,19 @@ description0:
 gallery: 
   enabled: 1
   items:
-      - image: /img/gallery-3.jpeg
+      - image: /img/gallery-3.jpg
         alt: "High Voltage Equipment Installation"
 
-      - image: /img/gallery-2.jpeg
+      - image: /img/gallery-2.jpg
         alt: "Maintenance Work on Electrical Systems"
 
-      - image: /img/gallery-1.jpeg
+      - image: /img/gallery-1.jpg
         alt: "Testing and Commissioning of Power Systems"
 
-      - image: /img/gallery-4.jpeg
+      - image: /img/gallery-4.jpg
         alt: "Cable Management Solutions"
 
-      - image: /img/gallery-5.jpeg
+      - image: /img/gallery-5.jpg
         alt: "Solar Panel Installation and Maintenance"
 
 checklist:

@@ -20,7 +20,7 @@
             },
             {
                 "label": "About",
-                "link": "/about",
+                "link": "",
                 "children": [
                     {
                         "label": "About Company",
@@ -52,6 +52,11 @@
             {
                 "label": "Projects",
                 "link": "/projects-2",
+                "children": 0
+            },
+            {
+                "label": "Careers",
+                "link": "/careers",
                 "children": 0
             },
             {

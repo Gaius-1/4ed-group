@@ -17,16 +17,18 @@ const ProductsSlider = () => {
             <div className="container">
                 <Swiper
                     // modules={[Navigation, Pagination, Autoplay]}
-                    navigation={{
-                        prevEl: '.swiper-button-prev',
-                        nextEl: '.swiper-button-next',
-                    }}
+                    // navigation={{
+                    //     prevEl: '.swiper-button-prev',
+                    //     nextEl: '.swiper-button-next',
+                    // }}
                     // pagination={{ clickable: true }}
                     autoplay={{
-                        delay: 5000,
-                        disableOnInteraction: false,
+                        delay: 2000,
+                        // disableOnInteraction: false,
                     }}
-                    className="row p-slider align-items-stretch justify-content-between grid"
+                    loop="true"
+                    speed={800}
+                    // className="row p-slider align-items-stretch justify-content-between grid"
                     breakpoints={{
                         640: {
                             slidesPerView: 1,
@@ -42,7 +44,7 @@ const ProductsSlider = () => {
                         },
                     }}
                 >
-                    {Data.items.slice(0, 5).map((item, key) => (
+                    {Data.items.slice(0, 6).map((item, key) => (
                         <SwiperSlide key={`product-${key}`}>
                             <div className="product h-full">
                                 <div className="main-data h-full flex flex-col">

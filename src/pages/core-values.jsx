@@ -15,6 +15,8 @@ const CoreValues = () => {
       
       <AboutSection />
 
+      <ServicesSection />
+
       {/* Core Values Start */}
       <section className="no-top core-values">
         <div className="heading">
@@ -153,8 +155,6 @@ const CoreValues = () => {
       </div>
       {/* Gallery Style One End */}
 
-      <ServicesSection />
-
       {/* Innovation Start */}
       <section className="gap innovation">
         <div className="heading">
@@ -194,7 +194,7 @@ const CoreValues = () => {
       </section>
       {/* Innovation End */}
 
-      <CallToActionSection />
+      {/* <CallToActionSection /> */}
       
     </Layouts>
   );

@@ -1,0 +1,184 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "slug": "senior-electrical-engineer-accra",
+      "title": "Senior Electrical Engineer",
+      "department": "Engineering",
+      "location": "Accra, Ghana",
+      "compensation": "GH₵80,000 - GH₵100,000",
+      "description": "Join our team as a Senior Electrical Engineer to lead power distribution and renewable energy projects across Ghana...",
+      "requirements": [
+        "BSc in Electrical Engineering",
+        "10+ years experience in power systems and distribution",
+        "Professional Engineering license",
+        "Experience with AutoCAD Electrical and ETAP",
+        "Strong project management skills"
+      ],
+      "responsibilities": [
+        "Lead electrical system designs for commercial and industrial projects",
+        "Oversee power distribution network planning and implementation",
+        "Manage renewable energy installations",
+        "Ensure compliance with local regulations and standards",
+        "Mentor junior engineers"
+      ],
+      "benefits": [
+        "Competitive salary package",
+        "Health insurance",
+        "Housing allowance",
+        "Transportation allowance",
+        "Professional development support"
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "senior-electrical-engineer-kumasi",
+      "title": "Senior Electrical Engineer",
+      "department": "Engineering",
+      "location": "Kumasi, Ghana", 
+      "compensation": "GH₵75,000 - GH₵95,000",
+      "description": "We're looking for an experienced Electrical Engineer to lead our industrial automation and control systems projects...",
+      "requirements": [
+        "BSc in Electrical/Electronic Engineering",
+        "8+ years experience in industrial automation",
+        "PLC programming expertise",
+        "Experience with SCADA systems",
+        "Strong analytical and problem-solving skills"
+      ],
+      "responsibilities": [
+        "Design and implement industrial automation systems",
+        "Lead PLC and SCADA programming projects",
+        "Develop control system specifications",
+        "Oversee system installations and commissioning",
+        "Provide technical support and maintenance"
+      ],
+      "benefits": [
+        "Competitive compensation",
+        "Medical coverage",
+        "Housing allowance",
+        "Annual bonus",
+        "Professional certifications support"
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "civil-engineer-accra",
+      "title": "Civil Engineer",
+      "department": "Engineering",
+      "location": "Accra, Ghana",
+      "compensation": "GH₵65,000 - GH₵85,000",
+      "description": "Seeking a Civil Engineer to join our infrastructure development team focused on urban development projects...",
+      "requirements": [
+        "BSc in Civil Engineering",
+        "5+ years experience in infrastructure projects",
+        "Proficiency in AutoCAD Civil 3D",
+        "Experience with structural analysis software",
+        "Knowledge of local building codes"
+      ],
+      "responsibilities": [
+        "Design and oversee infrastructure projects",
+        "Conduct site investigations and surveys",
+        "Prepare technical specifications and drawings",
+        "Manage construction quality control",
+        "Coordinate with contractors and stakeholders"
+      ],
+      "benefits": [
+        "Competitive salary",
+        "Health insurance",
+        "Transportation allowance",
+        "Professional development",
+        "Performance bonuses"
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "civil-engineer-takoradi",
+      "title": "Civil Engineer",
+      "department": "Engineering",
+      "location": "Takoradi, Ghana",
+      "compensation": "GH₵60,000 - GH₵80,000",
+      "description": "Join our port infrastructure development team as a Civil Engineer focused on marine structures...",
+      "requirements": [
+        "BSc in Civil Engineering",
+        "6+ years experience in marine structures",
+        "Knowledge of coastal engineering",
+        "Experience with marine construction",
+        "Strong technical documentation skills"
+      ],
+      "responsibilities": [
+        "Design marine structures and port facilities",
+        "Oversee construction of coastal infrastructure",
+        "Conduct structural assessments",
+        "Manage project documentation",
+        "Ensure compliance with marine regulations"
+      ],
+      "benefits": [
+        "Competitive package",
+        "Health coverage",
+        "Housing allowance",
+        "Relocation assistance",
+        "Career development opportunities"
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "electrical-project-manager",
+      "title": "Electrical Project Manager",
+      "department": "Engineering",
+      "location": "Tema, Ghana",
+      "compensation": "GH₵90,000 - GH₵120,000",
+      "description": "Seeking an experienced Electrical Project Manager to lead our power infrastructure projects...",
+      "requirements": [
+        "BSc in Electrical Engineering",
+        "12+ years experience",
+        "PMP Certification preferred",
+        "Strong leadership skills",
+        "Experience managing large-scale projects"
+      ],
+      "responsibilities": [
+        "Lead multiple electrical infrastructure projects",
+        "Manage project budgets and timelines",
+        "Coordinate with stakeholders and authorities",
+        "Oversee project teams and contractors",
+        "Ensure project delivery and quality"
+      ],
+      "benefits": [
+        "Executive compensation package",
+        "Comprehensive health coverage",
+        "Company vehicle",
+        "Performance bonuses",
+        "International training opportunities"
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "civil-project-manager",
+      "title": "Civil Project Manager",
+      "department": "Engineering",
+      "location": "Accra, Ghana",
+      "compensation": "GH₵85,000 - GH₵115,000",
+      "description": "Looking for a Civil Project Manager to lead our major infrastructure development projects...",
+      "requirements": [
+        "BSc in Civil Engineering",
+        "12+ years experience",
+        "PMP Certification",
+        "Infrastructure project management expertise",
+        "Strong stakeholder management skills"
+      ],
+      "responsibilities": [
+        "Manage large-scale infrastructure projects",
+        "Lead project planning and execution",
+        "Oversee budgets and resources",
+        "Coordinate with government agencies",
+        "Ensure project compliance and quality"
+      ],
+      "benefits": [
+        "Executive compensation",
+        "Comprehensive benefits package",
+        "Company vehicle",
+        "Annual bonuses",
+        "International development opportunities"
+      ]
+    }
+  ]
+}

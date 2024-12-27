@@ -4,13 +4,13 @@
     "items": [
         {
             "image": "/img/services/electricals.png",
-            "title": "Electrical Engineering Services",
+            "title": "Electrical Services",
             "text": "This includes installation, testing, and commissioning of electrical systems, preventive and predictive maintenance on electrical power installations, and automation involving control systems, PLCs, sensors and actuators, HMI, and embedded systems.",
             "link": "/services/service-1"
         },
         {
             "image": "/img/services/civil.jpg",
-            "title": "Civil Engineering Services",
+            "title": "Civil Services",
             "text": "This encompasses design, construction, infrastructure development, environmental engineering, project management, and maintenance and rehabilitation.",
             "link": "/services/service-2"
         }

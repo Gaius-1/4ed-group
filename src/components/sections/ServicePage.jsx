@@ -29,7 +29,7 @@ const ServiceSection = () => {
                 <div className="row">
                     <div className="col-lg-12">
                         <div className="image">
-                            <video autoPlay muted loop controls={false}>
+                            <video autoPlay playsInline muted loop controls={false}>
                                 <source src={Data.video.url} type="video/mp4" />
                                 Your browser does not support the video tag.
                             </video>

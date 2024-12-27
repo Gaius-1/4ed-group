@@ -25,19 +25,19 @@ description0:
 gallery: 
   enabled: 1
   items:
-      - image: /img/gallery-1.jpeg
+      - image: /img/gallery-1.jpg
         alt: "Project in progress"
 
-      - image: /img/gallery-2.jpeg
+      - image: /img/gallery-2.jpg
         alt: "Completed civil project"
 
-      - image: /img/gallery-3.jpeg
+      - image: /img/gallery-3.jpg
         alt: "Infrastructure development"
 
-      - image: /img/gallery-4.jpeg
+      - image: /img/gallery-4.jpg
         alt: "On-site team"
 
-      - image: /img/gallery-5.jpeg
+      - image: /img/gallery-5.jpg
         alt: "State-of-the-art equipment"
 
 checklist:

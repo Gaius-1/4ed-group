@@ -90,7 +90,7 @@ const History = () => {
       </section>
       {/* History End */}
       
-      <CallToActionSection />
+      {/* <CallToActionSection /> */}
     </Layouts>
   );
 };

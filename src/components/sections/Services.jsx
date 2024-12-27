@@ -13,11 +13,12 @@ const ServicesSection = () => {
                     <img className="light-icon" src={item.icon.light} alt={item.icon.alt} />
                     <img className="dark-icon" src={item.icon.dark} alt={item.icon.alt} />
                 </div>
-                <h3><Link href={item.link}>{item.title}</Link></h3>
+                {/* <h3><Link href={item.link}>{item.title}</Link></h3> */}
+                <h3>{item.title}</h3>
                 <p>{item.text}</p>
-                <Link href={item.link} className="icon">
+                {/* <Link href={item.link} className="icon">
                     <i className="fa-solid fa-angles-right" />
-                </Link>
+                </Link> */}
             </div>
             </div>
             ))}
