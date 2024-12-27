@@ -16,7 +16,7 @@ const Leadership = () => {
           "image": "/img/director.png",
           "name": "Kingsley Ocquaye",
           "role": "Director, SM Engineering",
-          "tel": "(+120) 50 318 47 07",
+          "tel": "(+223) 50 318 47 07",
           "social": [
               {
                   "link": "https://facebook.com/",
