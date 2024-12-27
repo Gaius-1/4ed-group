@@ -19,7 +19,7 @@ const About3Section = () => {
                 </figure>
                 <div className="details">
                   <h3>{item.title}</h3>
-                  <p>{item.text}</p>
+                  {/* <p>{item.text}</p> */}
                   <Link href={item.link}>
                     <i className="fa-solid fa-arrow-up-long" />
                   </Link>
