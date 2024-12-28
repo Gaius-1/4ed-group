@@ -4,9 +4,9 @@
     "items": [
         {
             "image": "/img/team-1.jpg",
-            "name": "Kwame John Doe",
-            "role": "President, Company CEO",
-            "tel": "(+233) 25 730 5066",
+            "name": "Kingsley Ocquaye",
+            "role": "Director",
+            "tel": "(+233) 558-671-351",
             "social": [
                 {
                     "link": "https://facebook.com/",
@@ -25,7 +25,7 @@
             "image": "/img/team-2.jpg",
             "name": "Eddie Kay",
             "role": "Vice President, Civil Infrastructure",
-            "tel": "(+233) 50 318 4707",
+            "tel": "(+233) 243-191-876",
             "social": [
                 {
                     "link": "https://facebook.com/",

@@ -29,7 +29,6 @@ const Leadership = () => {
                   "title": "Twitter"
               }
           ],
-          "link": "/team/team-4"
       },
       {
           "image": "/img/siya.jpg",
@@ -48,7 +47,6 @@ const Leadership = () => {
                   "title": "Twitter"
               }
           ],
-          "link": "/team/team-5"
       },
       {
           "image": "/img/zoe.jpg",
@@ -67,7 +65,6 @@ const Leadership = () => {
                   "title": "Twitter"
               }
           ],
-          "link": "/team/team-6"
       },
       {
           "image": "/img/cassie.jpg",
@@ -86,7 +83,6 @@ const Leadership = () => {
                   "title": "Twitter"
               }
           ],
-          "link": "/team/team-7"
       },
       {
         "image": "/img/cassie.jpg",
@@ -105,7 +101,6 @@ const Leadership = () => {
                 "title": "Twitter"
             }
         ],
-        "link": "/team/team-3"
     }
     ]
   }
@@ -137,7 +132,7 @@ const Leadership = () => {
             {Content.team.map((item, key) => (
             <div key={`team-item-${key}`} className="col-lg-6 col-md-6" >
               <div className="team-data">
-                <h3><Link href={item.link}>{item.name}</Link></h3>
+                <h3>{item.name}</h3>
                 <p>{item.role}</p>
                 <div className="contact">
                     <span>

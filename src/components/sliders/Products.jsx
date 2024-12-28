@@ -16,19 +16,11 @@ const ProductsSlider = () => {
             </div>
             <div className="container">
                 <Swiper
-                    // modules={[Navigation, Pagination, Autoplay]}
-                    // navigation={{
-                    //     prevEl: '.swiper-button-prev',
-                    //     nextEl: '.swiper-button-next',
-                    // }}
-                    // pagination={{ clickable: true }}
                     autoplay={{
                         delay: 2000,
-                        // disableOnInteraction: false,
                     }}
                     loop="true"
                     speed={800}
-                    // className="row p-slider align-items-stretch justify-content-between grid"
                     breakpoints={{
                         640: {
                             slidesPerView: 1,

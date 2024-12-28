@@ -5,7 +5,7 @@ import appData from "@data/app.json";
 const PageBanner = ({ pageTitle, pageDesc }) => {
   const styles = {
     "parallax": {
-      "backgroundImage": "url(/images/pattren-3.png)"
+      "backgroundImage": "url(/images/pattren-6.png)"
     }
   }
   const headTitle = `${appData.settings.siteName} - ${pageTitle}`;

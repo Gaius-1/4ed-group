@@ -25,7 +25,7 @@ const DefaultFooter = () => {
                     <p>Sales representative <span>(+233) 24 368 6855</span> free call !</p>
                 </div>
                 <Link href="/contact" className="theme-btn">
-                    Get a Consultation <i className="fa-solid fa-angles-right" />
+                    Request a Consultation <i className="fa-solid fa-angles-right" />
                 </Link>
             </div>
             </div>
