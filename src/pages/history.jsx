@@ -6,7 +6,7 @@ import CallToActionSection from "@components/sections/CallToAction";
 const History = () => {
   return (
     <Layouts>
-      <PageBanner pageTitle={"History"} pageDesc={"our values and vaulted us to the top of our industry."} />
+      <PageBanner pageTitle={"History"} pageDesc={"Solutions Beyond Expectations.."} />
       
       {/* History Start */}
       <section className="gap history detail-page">

@@ -7,7 +7,7 @@ import PageBanner from "@components/PageBanner";
 const ProductGrid = () => {
   return (
     <Layouts contactButton>
-      <PageBanner pageTitle={"Specialized Tools & Equipments"} pageDesc={"our values and vaulted us to the top of our industry."} />
+      <PageBanner pageTitle={"Specialized Tools & Equipments"} pageDesc={"Solutions Beyond Expectations.."} />
       
       {/* Shop Style One Start */}
       <section className="gap shop-style-one addition">

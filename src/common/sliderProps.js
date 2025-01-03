@@ -102,12 +102,13 @@ export const sliderProps = {
   },
   projects2Slider: {
     slidesPerView: 1,
-    spaceBetween: 30,
+    spaceBetween: 40,
     speed: 800,
-    effect: 'fade',
-    fadeEffect: {
-      crossFade: true
-    },
+    loop: true,
+    // effect: 'fade',
+    // fadeEffect: {
+    //   crossFade: true
+    // },
     autoplay: {
       delay: 4000,
     },

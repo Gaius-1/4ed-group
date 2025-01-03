@@ -7,7 +7,7 @@ import { getSortedTeamData } from "@library/team";
 const Team = ( props ) => {
   return (
     <Layouts>
-      <PageBanner pageTitle={"Our Team"} pageDesc={"our values and vaulted us to the top of our industry."} />
+      <PageBanner pageTitle={"Our Team"} pageDesc={"Solutions Beyond Expectations.."} />
 
       {/* Team Style Two Start */}
       <section className="gap team-style-two">

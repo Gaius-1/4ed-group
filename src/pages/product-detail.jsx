@@ -10,7 +10,7 @@ const ProductDetail = () => {
     <Layouts contactButton cartButton>
       <ImageView />
 
-      <PageBanner pageTitle={"Product Detail"} pageDesc={"our values and vaulted us to the top of our industry."} />
+      <PageBanner pageTitle={"Product Detail"} pageDesc={"Solutions Beyond Expectations.."} />
       
       {/* Product Detail Start */}
       <section className="gap product-detail light-bg-color">

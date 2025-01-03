@@ -32,7 +32,7 @@ const ProjectDetail = ( props ) => {
 
   return (
     <Layouts>
-      <PageBanner pageTitle={"Project Detail"} pageDesc={"our values and vaulted us to the top of our industry."} />
+      <PageBanner pageTitle={"Project Detail"} pageDesc={"Solutions Beyond Expectations.."} />
 
       <section className="gap detail-page">
 

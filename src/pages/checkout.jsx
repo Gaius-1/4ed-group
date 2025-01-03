@@ -5,7 +5,7 @@ import PageBanner from "@components/PageBanner";
 const Checkout = () => {
   return (
     <Layouts contactButton cartButton>
-      <PageBanner pageTitle={"Checkout"} pageDesc={"our values and vaulted us to the top of our industry."} />
+      <PageBanner pageTitle={"Checkout"} pageDesc={"Solutions Beyond Expectations.."} />
       
       {/* Checkout Start */}
       <section className="gap checkout detail-page">

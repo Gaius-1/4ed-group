@@ -11,7 +11,7 @@ const CoreValues = () => {
     <Layouts>
       <ImageView />
 
-      <PageBanner pageTitle={"Core Values"} pageDesc={"our values and vaulted us to the top of our industry."} />
+      <PageBanner pageTitle={"Core Values"} pageDesc={"Solutions Beyond Expectations.."} />
       
       <AboutSection />
 
