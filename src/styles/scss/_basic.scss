@@ -385,7 +385,7 @@ button.scrollTopStick i,
 .history-style-one .history-data .details a,
 .history-style-one .history-data a i,
 .team-style-two .team-social-medias a i,
-.project-completed .prj-slider-nav button,
+-nav button,
 .blog-style-three .blog-posts li,
 .contact-form-2 .info ul.social-medias li a,
 .construction-services .services-nav ul li button,
@@ -4355,7 +4355,8 @@ span.counter {
     text-align: right;
 }
 .project-completed .prj-slider {
-    padding-left: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
 }
 .project-completed .proj-image figure {
     position: relative;
